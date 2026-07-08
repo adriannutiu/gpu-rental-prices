@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: GPU rental prices — open dataset
+message: "If you use this dataset, please cite it and link to gpurentalprices.com."
+type: dataset
+authors:
+  - name: gpurentalprices.com
+url: "https://gpurentalprices.com"
+repository-code: "https://github.com/adriannutiu/gpu-prices-data"
+license: CC-BY-4.0
+keywords:
+  - GPU
+  - cloud GPU pricing
+  - H100
+  - H200
+  - A100
+  - machine learning infrastructure
+  - GPU rental
