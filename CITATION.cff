@@ -5,7 +5,7 @@ type: dataset
 authors:
   - name: gpurentalprices.com
 url: "https://gpurentalprices.com"
-repository-code: "https://github.com/adriannutiu/gpu-prices-data"
+repository-code: "https://github.com/adriannutiu/gpu-rental-prices"
 license: CC-BY-4.0
 keywords:
   - GPU

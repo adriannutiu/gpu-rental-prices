@@ -43,7 +43,7 @@ Once per day each provider's own pricing source is fetched (a public API where o
 Free to use under **CC BY 4.0** — build dashboards, notebooks, research, price alerts, whatever. The one ask the license makes: **attribute it with a link to [gpurentalprices.com](https://gpurentalprices.com)**.
 
 ```bash
-curl -s https://raw.githubusercontent.com/adriannutiu/gpu-prices-data/main/data/latest.json
+curl -s https://raw.githubusercontent.com/adriannutiu/gpu-rental-prices/main/data/latest.json
 ```
 
 There's also a live JSON API and CSV export on the site: [gpurentalprices.com/data](https://gpurentalprices.com/data).
