@@ -26,9 +26,9 @@ jobs:
           cp data/latest.json "data/snapshots/${DATE}.json"
           echo "Fetched snapshot for ${DATE}"
 
-      - name: Prune to a rolling 60-day window
+      - name: Prune to a rolling 90-day window
         run: |
-          ls -1 data/snapshots/*.json | sort | head -n -60 | xargs -r rm -v
+          ls -1 data/snapshots/*.json | sort | head -n -90 | xargs -r rm -v
 
       - name: Commit if changed
         run: |
