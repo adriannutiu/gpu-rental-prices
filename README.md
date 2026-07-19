@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21435394.svg)](https://doi.org/10.5281/zenodo.21435394)
 
-Mirrors: [gpurentalprices.com/data](https://gpurentalprices.com/data) (canonical, live API) | [Hugging Face](https://huggingface.co/datasets/gpurentalprices/gpu-rental-prices) | [Zenodo archive](https://doi.org/10.5281/zenodo.21435394)
+Mirrors: [gpurentalprices.com/data](https://gpurentalprices.com/data) (canonical, live API) | [Hugging Face](https://huggingface.co/datasets/gpurentalprices/gpu-rental-prices) | [Kaggle](https://www.kaggle.com/datasets/gpurentalprices/gpu-rental-prices) | [Zenodo archive](https://doi.org/10.5281/zenodo.21435394)
 
 **Daily-verified cloud GPU rental prices across 22 providers, in one open dataset. Updated every day. CC BY 4.0.**
 
