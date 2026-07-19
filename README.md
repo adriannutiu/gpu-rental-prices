@@ -1,6 +1,10 @@
 # GPU rental prices — open dataset
 
-**Daily-verified cloud GPU rental prices across 18+ providers, in one open dataset. Updated every day. CC BY 4.0.**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21435394.svg)](https://doi.org/10.5281/zenodo.21435394)
+
+Mirrors: [gpurentalprices.com/data](https://gpurentalprices.com/data) (canonical, live API) | [Hugging Face](https://huggingface.co/datasets/gpurentalprices/gpu-rental-prices) | [Zenodo archive](https://doi.org/10.5281/zenodo.21435394)
+
+**Daily-verified cloud GPU rental prices across 22 providers, in one open dataset. Updated every day. CC BY 4.0.**
 
 Covers on-demand and spot/community pricing for **H100, H200, B200, A100, L40S, RTX 4090/5090, MI300X, GH200** and more, from providers including RunPod, Lambda, CoreWeave, Nebius, Hyperstack, DataCrunch, Voltage Park, Crusoe, OVH, AWS, Azure, Together, Modal, fal, Vultr, and others.
 
