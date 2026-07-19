@@ -41,3 +41,12 @@ jobs:
             git commit -m "data: daily GPU price snapshot ($(date -u +%Y-%m-%d))"
             git push
           fi
+
+      - name: Sync dataset to HuggingFace
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          pip install -q "huggingface_hub[cli]"
+          hf upload gpurentalprices/gpu-rental-prices data data \
+            --repo-type dataset --delete "**" \
+            --commit-message "data: daily sync from GitHub mirror"
