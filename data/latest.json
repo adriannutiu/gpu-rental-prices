@@ -67,15 +67,6 @@
   },
   {
    "provider": "runpod",
-   "gpu": "a40",
-   "vram_gb": 48,
-   "usd_hr": 0.35,
-   "kind": "community",
-   "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-08-08T05:59:48.749Z"
-  },
-  {
-   "provider": "runpod",
    "gpu": "b200",
    "vram_gb": 180,
    "usd_hr": 6.79,
@@ -132,15 +123,6 @@
    "provider": "runpod",
    "gpu": "rtx-3090-ti",
    "vram_gb": 24,
-   "usd_hr": 0.46,
-   "kind": "secure",
-   "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-08-08T05:59:48.749Z"
-  },
-  {
-   "provider": "runpod",
-   "gpu": "rtx-3090-ti",
-   "vram_gb": 24,
    "usd_hr": 0.27,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
@@ -161,15 +143,6 @@
    "vram_gb": 24,
    "usd_hr": 0.34,
    "kind": "community",
-   "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-08-08T05:59:48.749Z"
-  },
-  {
-   "provider": "runpod",
-   "gpu": "rtx-5080",
-   "vram_gb": 16,
-   "usd_hr": 0.59,
-   "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
    "fetched_at": "2026-08-08T05:59:48.749Z"
   },
@@ -287,15 +260,6 @@
    "vram_gb": 24,
    "usd_hr": 0.49,
    "kind": "secure",
-   "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-08-08T05:59:48.749Z"
-  },
-  {
-   "provider": "runpod",
-   "gpu": "l4",
-   "vram_gb": 24,
-   "usd_hr": 0.44,
-   "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
    "fetched_at": "2026-08-08T05:59:48.749Z"
   },
