@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "generated_at": "2026-10-02T05:20:19.980Z",
+ "generated_at": "2026-10-02T06:18:10.684Z",
  "offers": [
   {
    "provider": "runpod",
@@ -9,7 +9,7 @@
    "usd_hr": 2.39,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -18,7 +18,7 @@
    "usd_hr": 5.49,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -27,7 +27,7 @@
    "usd_hr": 1.59,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -36,7 +36,7 @@
    "usd_hr": 1.19,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -45,7 +45,7 @@
    "usd_hr": 1,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -54,7 +54,7 @@
    "usd_hr": 1.59,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -63,7 +63,7 @@
    "usd_hr": 1.39,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -72,7 +72,7 @@
    "usd_hr": 0.49,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -81,7 +81,7 @@
    "usd_hr": 6.79,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -90,7 +90,7 @@
    "usd_hr": 5.98,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -99,7 +99,7 @@
    "usd_hr": 7.89,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -108,7 +108,7 @@
    "usd_hr": 6.94,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -117,7 +117,7 @@
    "usd_hr": 0.5,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -126,7 +126,7 @@
    "usd_hr": 0.22,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -135,7 +135,7 @@
    "usd_hr": 0.27,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -144,7 +144,7 @@
    "usd_hr": 0.74,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -153,7 +153,7 @@
    "usd_hr": 0.34,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -162,7 +162,7 @@
    "usd_hr": 0.39,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -171,7 +171,7 @@
    "usd_hr": 0.99,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -180,7 +180,7 @@
    "usd_hr": 0.69,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -189,7 +189,7 @@
    "usd_hr": 3.49,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -198,7 +198,7 @@
    "usd_hr": 2.69,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -207,7 +207,7 @@
    "usd_hr": 3.19,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -216,7 +216,7 @@
    "usd_hr": 2.59,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -225,7 +225,7 @@
    "usd_hr": 2.89,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -234,7 +234,7 @@
    "usd_hr": 1.99,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -243,7 +243,7 @@
    "usd_hr": 4.59,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -252,7 +252,7 @@
    "usd_hr": 3.59,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -261,7 +261,7 @@
    "usd_hr": 3.79,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -270,7 +270,7 @@
    "usd_hr": 0.49,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -279,7 +279,7 @@
    "usd_hr": 0.82,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -288,7 +288,7 @@
    "usd_hr": 0.69,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -297,7 +297,7 @@
    "usd_hr": 1.09,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -306,7 +306,7 @@
    "usd_hr": 0.79,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -315,7 +315,7 @@
    "usd_hr": 0.84,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -324,7 +324,7 @@
    "usd_hr": 0.74,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -333,7 +333,7 @@
    "usd_hr": 0.25,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -342,7 +342,7 @@
    "usd_hr": 0.17,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -351,7 +351,7 @@
    "usd_hr": 0.27,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -360,7 +360,7 @@
    "usd_hr": 0.16,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -369,7 +369,7 @@
    "usd_hr": 0.53,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -378,7 +378,7 @@
    "usd_hr": 0.33,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -387,7 +387,7 @@
    "usd_hr": 0.72,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -396,7 +396,7 @@
    "usd_hr": 1.64,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -405,7 +405,7 @@
    "usd_hr": 2.09,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -414,7 +414,7 @@
    "usd_hr": 1.69,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -423,7 +423,7 @@
    "usd_hr": 2.19,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -432,7 +432,7 @@
    "usd_hr": 1.69,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -441,7 +441,7 @@
    "usd_hr": 0.19,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "runpod",
@@ -450,7 +450,7 @@
    "usd_hr": 0.23,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-02T05:20:02.448Z"
+   "fetched_at": "2026-10-02T06:18:03.899Z"
   },
   {
    "provider": "lambda",
@@ -459,7 +459,7 @@
    "usd_hr": 6.69,
    "kind": "on-demand",
    "source_url": "https://lambda.ai/service/gpu-cloud",
-   "fetched_at": "2026-10-02T05:20:02.492Z"
+   "fetched_at": "2026-10-02T06:18:03.812Z"
   },
   {
    "provider": "lambda",
@@ -468,7 +468,7 @@
    "usd_hr": 3.99,
    "kind": "on-demand",
    "source_url": "https://lambda.ai/service/gpu-cloud",
-   "fetched_at": "2026-10-02T05:20:02.492Z"
+   "fetched_at": "2026-10-02T06:18:03.812Z"
   },
   {
    "provider": "lambda",
@@ -477,7 +477,7 @@
    "usd_hr": 2.79,
    "kind": "on-demand",
    "source_url": "https://lambda.ai/service/gpu-cloud",
-   "fetched_at": "2026-10-02T05:20:02.492Z"
+   "fetched_at": "2026-10-02T06:18:03.812Z"
   },
   {
    "provider": "lambda",
@@ -486,7 +486,7 @@
    "usd_hr": 1.99,
    "kind": "on-demand",
    "source_url": "https://lambda.ai/service/gpu-cloud",
-   "fetched_at": "2026-10-02T05:20:02.492Z"
+   "fetched_at": "2026-10-02T06:18:03.812Z"
   },
   {
    "provider": "lambda",
@@ -495,7 +495,7 @@
    "usd_hr": 0.79,
    "kind": "on-demand",
    "source_url": "https://lambda.ai/service/gpu-cloud",
-   "fetched_at": "2026-10-02T05:20:02.492Z"
+   "fetched_at": "2026-10-02T06:18:03.812Z"
   },
   {
    "provider": "lambda",
@@ -504,7 +504,7 @@
    "usd_hr": 1.09,
    "kind": "on-demand",
    "source_url": "https://lambda.ai/service/gpu-cloud",
-   "fetched_at": "2026-10-02T05:20:02.492Z"
+   "fetched_at": "2026-10-02T06:18:03.812Z"
   },
   {
    "provider": "lambda",
@@ -513,7 +513,7 @@
    "usd_hr": 2.29,
    "kind": "on-demand",
    "source_url": "https://lambda.ai/service/gpu-cloud",
-   "fetched_at": "2026-10-02T05:20:02.492Z"
+   "fetched_at": "2026-10-02T06:18:03.812Z"
   },
   {
    "provider": "lambda",
@@ -522,7 +522,7 @@
    "usd_hr": 3.29,
    "kind": "on-demand",
    "source_url": "https://lambda.ai/service/gpu-cloud",
-   "fetched_at": "2026-10-02T05:20:02.492Z"
+   "fetched_at": "2026-10-02T06:18:03.812Z"
   },
   {
    "provider": "lambda",
@@ -531,7 +531,7 @@
    "usd_hr": 1.29,
    "kind": "on-demand",
    "source_url": "https://lambda.ai/service/gpu-cloud",
-   "fetched_at": "2026-10-02T05:20:02.492Z"
+   "fetched_at": "2026-10-02T06:18:03.812Z"
   },
   {
    "provider": "lambda",
@@ -540,7 +540,7 @@
    "usd_hr": 0.69,
    "kind": "on-demand",
    "source_url": "https://lambda.ai/service/gpu-cloud",
-   "fetched_at": "2026-10-02T05:20:02.492Z"
+   "fetched_at": "2026-10-02T06:18:03.812Z"
   },
   {
    "provider": "hyperstack",
@@ -549,7 +549,7 @@
    "usd_hr": 3.99,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-02T05:20:02.381Z"
+   "fetched_at": "2026-10-02T06:18:04.368Z"
   },
   {
    "provider": "hyperstack",
@@ -558,7 +558,7 @@
    "usd_hr": 3.2,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-02T05:20:02.381Z"
+   "fetched_at": "2026-10-02T06:18:04.368Z"
   },
   {
    "provider": "hyperstack",
@@ -567,7 +567,7 @@
    "usd_hr": 2.5,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-02T05:20:02.381Z"
+   "fetched_at": "2026-10-02T06:18:04.368Z"
   },
   {
    "provider": "hyperstack",
@@ -576,7 +576,7 @@
    "usd_hr": 1.85,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-02T05:20:02.381Z"
+   "fetched_at": "2026-10-02T06:18:04.368Z"
   },
   {
    "provider": "hyperstack",
@@ -585,7 +585,7 @@
    "usd_hr": 1.6,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-02T05:20:02.381Z"
+   "fetched_at": "2026-10-02T06:18:04.368Z"
   },
   {
    "provider": "hyperstack",
@@ -594,7 +594,7 @@
    "usd_hr": 1.35,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-02T05:20:02.381Z"
+   "fetched_at": "2026-10-02T06:18:04.368Z"
   },
   {
    "provider": "hyperstack",
@@ -603,7 +603,7 @@
    "usd_hr": 1,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-02T05:20:02.381Z"
+   "fetched_at": "2026-10-02T06:18:04.368Z"
   },
   {
    "provider": "hyperstack",
@@ -612,7 +612,7 @@
    "usd_hr": 0.5,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-02T05:20:02.381Z"
+   "fetched_at": "2026-10-02T06:18:04.368Z"
   },
   {
    "provider": "hyperstack",
@@ -621,7 +621,7 @@
    "usd_hr": 0.15,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-02T05:20:02.381Z"
+   "fetched_at": "2026-10-02T06:18:04.368Z"
   },
   {
    "provider": "hyperstack",
@@ -630,7 +630,7 @@
    "usd_hr": 6,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-02T05:20:02.381Z"
+   "fetched_at": "2026-10-02T06:18:04.368Z"
   },
   {
    "provider": "hyperstack",
@@ -639,7 +639,7 @@
    "usd_hr": 7.4,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-02T05:20:02.381Z"
+   "fetched_at": "2026-10-02T06:18:04.368Z"
   },
   {
    "provider": "coreweave",
@@ -648,7 +648,7 @@
    "usd_hr": 8.6,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-02T05:20:02.586Z",
+   "fetched_at": "2026-10-02T06:18:04.018Z",
    "min_gpus": 8
   },
   {
@@ -658,7 +658,7 @@
    "usd_hr": 2.5,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-02T05:20:02.586Z",
+   "fetched_at": "2026-10-02T06:18:04.018Z",
    "min_gpus": 8
   },
   {
@@ -668,7 +668,7 @@
    "usd_hr": 6.5,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-02T05:20:02.586Z",
+   "fetched_at": "2026-10-02T06:18:04.018Z",
    "min_gpus": 1
   },
   {
@@ -678,7 +678,7 @@
    "usd_hr": 6.155,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-02T05:20:02.586Z",
+   "fetched_at": "2026-10-02T06:18:04.018Z",
    "min_gpus": 8
   },
   {
@@ -688,7 +688,7 @@
    "usd_hr": 1.25,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-02T05:20:02.586Z",
+   "fetched_at": "2026-10-02T06:18:04.018Z",
    "min_gpus": 8
   },
   {
@@ -698,7 +698,7 @@
    "usd_hr": 6.305,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-02T05:20:02.586Z",
+   "fetched_at": "2026-10-02T06:18:04.018Z",
    "min_gpus": 8
   },
   {
@@ -708,7 +708,7 @@
    "usd_hr": 2.25,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-02T05:20:02.586Z",
+   "fetched_at": "2026-10-02T06:18:04.018Z",
    "min_gpus": 8
   },
   {
@@ -718,7 +718,7 @@
    "usd_hr": 2.7,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-02T05:20:02.586Z",
+   "fetched_at": "2026-10-02T06:18:04.018Z",
    "min_gpus": 8
   },
   {
@@ -728,7 +728,7 @@
    "usd_hr": 9.5,
    "kind": "on-demand",
    "source_url": "https://docs.nebius.com/compute/resources/pricing",
-   "fetched_at": "2026-10-02T05:20:02.491Z"
+   "fetched_at": "2026-10-02T06:18:04.813Z"
   },
   {
    "provider": "nebius",
@@ -737,7 +737,7 @@
    "usd_hr": 8.5,
    "kind": "on-demand",
    "source_url": "https://docs.nebius.com/compute/resources/pricing",
-   "fetched_at": "2026-10-02T05:20:02.491Z"
+   "fetched_at": "2026-10-02T06:18:04.813Z"
   },
   {
    "provider": "nebius",
@@ -746,7 +746,7 @@
    "usd_hr": 5.4,
    "kind": "on-demand",
    "source_url": "https://docs.nebius.com/compute/resources/pricing",
-   "fetched_at": "2026-10-02T05:20:02.491Z"
+   "fetched_at": "2026-10-02T06:18:04.813Z"
   },
   {
    "provider": "nebius",
@@ -755,7 +755,7 @@
    "usd_hr": 4.5,
    "kind": "on-demand",
    "source_url": "https://docs.nebius.com/compute/resources/pricing",
-   "fetched_at": "2026-10-02T05:20:02.491Z"
+   "fetched_at": "2026-10-02T06:18:04.813Z"
   },
   {
    "provider": "nebius",
@@ -764,7 +764,7 @@
    "usd_hr": 1.8,
    "kind": "on-demand",
    "source_url": "https://docs.nebius.com/compute/resources/pricing",
-   "fetched_at": "2026-10-02T05:20:02.491Z"
+   "fetched_at": "2026-10-02T06:18:04.813Z"
   },
   {
    "provider": "nebius",
@@ -773,7 +773,7 @@
    "usd_hr": 1.35,
    "kind": "on-demand",
    "source_url": "https://docs.nebius.com/compute/resources/pricing",
-   "fetched_at": "2026-10-02T05:20:02.491Z"
+   "fetched_at": "2026-10-02T06:18:04.813Z"
   },
   {
    "provider": "datacrunch",
@@ -782,7 +782,7 @@
    "usd_hr": 10.01,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-02T05:20:03.084Z",
+   "fetched_at": "2026-10-02T06:18:05.010Z",
    "min_gpus": 1
   },
   {
@@ -792,7 +792,7 @@
    "usd_hr": 8.708,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-02T05:20:03.084Z",
+   "fetched_at": "2026-10-02T06:18:05.010Z",
    "min_gpus": 1
   },
   {
@@ -802,7 +802,7 @@
    "usd_hr": 6.987,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-02T05:20:03.084Z",
+   "fetched_at": "2026-10-02T06:18:05.010Z",
    "min_gpus": 1
   },
   {
@@ -812,7 +812,7 @@
    "usd_hr": 4.779,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-02T05:20:03.084Z",
+   "fetched_at": "2026-10-02T06:18:05.010Z",
    "min_gpus": 1
   },
   {
@@ -822,7 +822,7 @@
    "usd_hr": 3.663,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-02T05:20:03.084Z",
+   "fetched_at": "2026-10-02T06:18:05.010Z",
    "min_gpus": 1
   },
   {
@@ -832,7 +832,7 @@
    "usd_hr": 1.788,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-02T05:20:03.084Z",
+   "fetched_at": "2026-10-02T06:18:05.010Z",
    "min_gpus": 1
   },
   {
@@ -842,7 +842,7 @@
    "usd_hr": 1.294,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-02T05:20:03.084Z",
+   "fetched_at": "2026-10-02T06:18:05.010Z",
    "min_gpus": 1
   },
   {
@@ -852,7 +852,7 @@
    "usd_hr": 0.192,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-02T05:20:03.084Z",
+   "fetched_at": "2026-10-02T06:18:05.010Z",
    "min_gpus": 1
   },
   {
@@ -862,7 +862,7 @@
    "usd_hr": 2.024,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-02T05:20:03.084Z",
+   "fetched_at": "2026-10-02T06:18:05.010Z",
    "min_gpus": 1
   },
   {
@@ -872,7 +872,7 @@
    "usd_hr": 1.558,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-02T05:20:03.084Z",
+   "fetched_at": "2026-10-02T06:18:05.010Z",
    "min_gpus": 1
   },
   {
@@ -882,7 +882,7 @@
    "usd_hr": 1.178,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-02T05:20:03.084Z",
+   "fetched_at": "2026-10-02T06:18:05.010Z",
    "min_gpus": 1
   },
   {
@@ -892,7 +892,7 @@
    "usd_hr": 0.659,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-02T05:20:03.084Z",
+   "fetched_at": "2026-10-02T06:18:05.010Z",
    "min_gpus": 1
   },
   {
@@ -902,7 +902,7 @@
    "usd_hr": 1.99,
    "kind": "on-demand",
    "source_url": "https://support.voltagepark.com/article/example-deploying-gpt-oss-on-voltage-park",
-   "fetched_at": "2026-10-02T05:20:02.817Z"
+   "fetched_at": "2026-10-02T06:18:05.340Z"
   },
   {
    "provider": "crusoe",
@@ -911,7 +911,7 @@
    "usd_hr": 4.29,
    "kind": "on-demand",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "fetched_at": "2026-10-02T05:20:02.876Z"
+   "fetched_at": "2026-10-02T06:18:04.396Z"
   },
   {
    "provider": "crusoe",
@@ -920,7 +920,7 @@
    "usd_hr": 3.9,
    "kind": "on-demand",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "fetched_at": "2026-10-02T05:20:02.876Z"
+   "fetched_at": "2026-10-02T06:18:04.396Z"
   },
   {
    "provider": "crusoe",
@@ -929,7 +929,7 @@
    "usd_hr": 2.3,
    "kind": "on-demand",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "fetched_at": "2026-10-02T05:20:02.876Z"
+   "fetched_at": "2026-10-02T06:18:04.396Z"
   },
   {
    "provider": "crusoe",
@@ -938,7 +938,7 @@
    "usd_hr": 2,
    "kind": "on-demand",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "fetched_at": "2026-10-02T05:20:02.876Z"
+   "fetched_at": "2026-10-02T06:18:04.396Z"
   },
   {
    "provider": "crusoe",
@@ -947,7 +947,7 @@
    "usd_hr": 1.5,
    "kind": "on-demand",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "fetched_at": "2026-10-02T05:20:02.876Z"
+   "fetched_at": "2026-10-02T06:18:04.396Z"
   },
   {
    "provider": "crusoe",
@@ -956,7 +956,7 @@
    "usd_hr": 3.45,
    "kind": "on-demand",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "fetched_at": "2026-10-02T05:20:02.876Z"
+   "fetched_at": "2026-10-02T06:18:04.396Z"
   },
   {
    "provider": "jarvislabs",
@@ -965,7 +965,7 @@
    "usd_hr": 3.99,
    "kind": "on-demand",
    "source_url": "https://jarvislabs.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.877Z"
+   "fetched_at": "2026-10-02T06:18:04.366Z"
   },
   {
    "provider": "jarvislabs",
@@ -974,7 +974,7 @@
    "usd_hr": 2.69,
    "kind": "on-demand",
    "source_url": "https://jarvislabs.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.877Z"
+   "fetched_at": "2026-10-02T06:18:04.366Z"
   },
   {
    "provider": "jarvislabs",
@@ -983,7 +983,7 @@
    "usd_hr": 1.89,
    "kind": "on-demand",
    "source_url": "https://jarvislabs.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.877Z"
+   "fetched_at": "2026-10-02T06:18:04.366Z"
   },
   {
    "provider": "jarvislabs",
@@ -992,7 +992,7 @@
    "usd_hr": 1.49,
    "kind": "on-demand",
    "source_url": "https://jarvislabs.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.877Z"
+   "fetched_at": "2026-10-02T06:18:04.366Z"
   },
   {
    "provider": "jarvislabs",
@@ -1001,7 +1001,7 @@
    "usd_hr": 0.89,
    "kind": "on-demand",
    "source_url": "https://jarvislabs.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.877Z"
+   "fetched_at": "2026-10-02T06:18:04.366Z"
   },
   {
    "provider": "jarvislabs",
@@ -1010,7 +1010,7 @@
    "usd_hr": 0.44,
    "kind": "on-demand",
    "source_url": "https://jarvislabs.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.877Z"
+   "fetched_at": "2026-10-02T06:18:04.366Z"
   },
   {
    "provider": "ovh",
@@ -1019,7 +1019,7 @@
    "usd_hr": 0.77,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-02T05:20:02.685Z",
+   "fetched_at": "2026-10-02T06:18:04.564Z",
    "min_gpus": 1
   },
   {
@@ -1029,7 +1029,7 @@
    "usd_hr": 1,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-02T05:20:02.685Z",
+   "fetched_at": "2026-10-02T06:18:04.564Z",
    "min_gpus": 1
   },
   {
@@ -1039,7 +1039,7 @@
    "usd_hr": 3.07,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-02T05:20:02.685Z",
+   "fetched_at": "2026-10-02T06:18:04.564Z",
    "min_gpus": 1
   },
   {
@@ -1049,7 +1049,7 @@
    "usd_hr": 2.99,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-02T05:20:02.685Z",
+   "fetched_at": "2026-10-02T06:18:04.564Z",
    "min_gpus": 1
   },
   {
@@ -1059,7 +1059,7 @@
    "usd_hr": 1,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-02T05:20:02.685Z",
+   "fetched_at": "2026-10-02T06:18:04.564Z",
    "min_gpus": 1
   },
   {
@@ -1069,7 +1069,7 @@
    "usd_hr": 1.8,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-02T05:20:02.685Z",
+   "fetched_at": "2026-10-02T06:18:04.564Z",
    "min_gpus": 1
   },
   {
@@ -1079,7 +1079,7 @@
    "usd_hr": 0.6,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-02T05:20:02.685Z",
+   "fetched_at": "2026-10-02T06:18:04.564Z",
    "min_gpus": 1
   },
   {
@@ -1089,7 +1089,7 @@
    "usd_hr": 6.195,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-02T05:20:02.685Z",
+   "fetched_at": "2026-10-02T06:18:04.564Z",
    "min_gpus": 8
   },
   {
@@ -1099,7 +1099,7 @@
    "usd_hr": 10.68,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
@@ -1108,7 +1108,7 @@
    "usd_hr": 5.45,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
@@ -1117,7 +1117,7 @@
    "usd_hr": 2.98,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
@@ -1126,7 +1126,7 @@
    "usd_hr": 2.2,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
@@ -1135,7 +1135,7 @@
    "usd_hr": 8.63,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
@@ -1144,7 +1144,7 @@
    "usd_hr": 4.49,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
@@ -1153,16 +1153,16 @@
    "usd_hr": 4.79,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
    "gpu": "h200",
    "vram_gb": 141,
-   "usd_hr": 3.36,
+   "usd_hr": 3.06,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
@@ -1171,7 +1171,7 @@
    "usd_hr": 3.59,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
@@ -1180,34 +1180,34 @@
    "usd_hr": 3.02,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
    "gpu": "a100",
    "vram_gb": 80,
-   "usd_hr": 1.43,
+   "usd_hr": 1.48,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
    "gpu": "a100",
    "vram_gb": 80,
-   "usd_hr": 1.13,
+   "usd_hr": 1.19,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
    "gpu": "rtx-pro-6000",
    "vram_gb": 96,
-   "usd_hr": 2.28,
+   "usd_hr": 2.35,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
@@ -1216,7 +1216,7 @@
    "usd_hr": 1.27,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
@@ -1225,7 +1225,7 @@
    "usd_hr": 0.68,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
@@ -1234,7 +1234,16 @@
    "usd_hr": 0.78,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
+  },
+  {
+   "provider": "spheron",
+   "gpu": "rtx-6000-ada",
+   "vram_gb": 48,
+   "usd_hr": 0.77,
+   "kind": "spot",
+   "source_url": "https://www.spheron.network/pricing/",
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
@@ -1243,25 +1252,25 @@
    "usd_hr": 0.96,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
    "gpu": "l40s",
    "vram_gb": 48,
-   "usd_hr": 0.98,
+   "usd_hr": 1.64,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "spheron",
    "gpu": "rtx-4090",
    "vram_gb": 24,
-   "usd_hr": 0.48,
+   "usd_hr": 0.58,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.172Z"
   },
   {
    "provider": "azure",
@@ -1270,7 +1279,7 @@
    "usd_hr": 11.061,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-02T05:20:03.071Z",
+   "fetched_at": "2026-10-02T06:18:04.227Z",
    "min_gpus": 8
   },
   {
@@ -1280,7 +1289,7 @@
    "usd_hr": 0.738058625,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-02T05:20:03.071Z",
+   "fetched_at": "2026-10-02T06:18:04.227Z",
    "min_gpus": 8
   },
   {
@@ -1290,7 +1299,7 @@
    "usd_hr": 0.67877,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-02T05:20:03.071Z",
+   "fetched_at": "2026-10-02T06:18:04.227Z",
    "min_gpus": 1
   },
   {
@@ -1300,7 +1309,7 @@
    "usd_hr": 1.289904,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-02T05:20:03.071Z",
+   "fetched_at": "2026-10-02T06:18:04.227Z",
    "min_gpus": 1
   },
   {
@@ -1310,7 +1319,7 @@
    "usd_hr": 3.399625,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-02T05:20:03.071Z",
+   "fetched_at": "2026-10-02T06:18:04.227Z",
    "min_gpus": 8
   },
   {
@@ -1320,7 +1329,7 @@
    "usd_hr": 4.09625,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-02T05:20:03.071Z",
+   "fetched_at": "2026-10-02T06:18:04.227Z",
    "min_gpus": 8
   },
   {
@@ -1330,7 +1339,7 @@
    "usd_hr": 3.673,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-02T05:20:03.071Z",
+   "fetched_at": "2026-10-02T06:18:04.227Z",
    "min_gpus": 2
   },
   {
@@ -1340,7 +1349,7 @@
    "usd_hr": 6.98,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-02T05:20:03.071Z",
+   "fetched_at": "2026-10-02T06:18:04.227Z",
    "min_gpus": 1
   },
   {
@@ -1350,7 +1359,7 @@
    "usd_hr": 1.055194,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-02T05:20:03.071Z",
+   "fetched_at": "2026-10-02T06:18:04.227Z",
    "min_gpus": 8
   },
   {
@@ -1360,7 +1369,7 @@
    "usd_hr": 2.04407275,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-02T05:20:03.071Z",
+   "fetched_at": "2026-10-02T06:18:04.227Z",
    "min_gpus": 8
   },
   {
@@ -1370,7 +1379,7 @@
    "usd_hr": 0.8048,
    "kind": "on-demand",
    "source_url": "https://ec2.shop",
-   "fetched_at": "2026-10-02T05:20:02.717Z",
+   "fetched_at": "2026-10-02T06:18:04.765Z",
    "min_gpus": 1
   },
   {
@@ -1380,7 +1389,7 @@
    "usd_hr": 0.105,
    "kind": "spot",
    "source_url": "https://ec2.shop",
-   "fetched_at": "2026-10-02T05:20:02.717Z",
+   "fetched_at": "2026-10-02T06:18:04.765Z",
    "min_gpus": 1
   },
   {
@@ -1390,7 +1399,7 @@
    "usd_hr": 1.861,
    "kind": "on-demand",
    "source_url": "https://ec2.shop",
-   "fetched_at": "2026-10-02T05:20:02.717Z",
+   "fetched_at": "2026-10-02T06:18:04.765Z",
    "min_gpus": 1
   },
   {
@@ -1400,7 +1409,7 @@
    "usd_hr": 1.6688,
    "kind": "on-demand",
    "source_url": "https://ec2.shop",
-   "fetched_at": "2026-10-02T05:20:02.717Z",
+   "fetched_at": "2026-10-02T06:18:04.765Z",
    "min_gpus": 8
   },
   {
@@ -1410,7 +1419,7 @@
    "usd_hr": 0.21995,
    "kind": "spot",
    "source_url": "https://ec2.shop",
-   "fetched_at": "2026-10-02T05:20:02.717Z",
+   "fetched_at": "2026-10-02T06:18:04.765Z",
    "min_gpus": 8
   },
   {
@@ -1420,7 +1429,7 @@
    "usd_hr": 3.7663975,
    "kind": "on-demand",
    "source_url": "https://ec2.shop",
-   "fetched_at": "2026-10-02T05:20:02.717Z",
+   "fetched_at": "2026-10-02T06:18:04.765Z",
    "min_gpus": 8
   },
   {
@@ -1430,7 +1439,7 @@
    "usd_hr": 4.096575,
    "kind": "on-demand",
    "source_url": "https://ec2.shop",
-   "fetched_at": "2026-10-02T05:20:02.717Z",
+   "fetched_at": "2026-10-02T06:18:04.765Z",
    "min_gpus": 8
   },
   {
@@ -1440,7 +1449,7 @@
    "usd_hr": 1.6333375,
    "kind": "spot",
    "source_url": "https://ec2.shop",
-   "fetched_at": "2026-10-02T05:20:02.717Z",
+   "fetched_at": "2026-10-02T06:18:04.765Z",
    "min_gpus": 8
   },
   {
@@ -1450,7 +1459,7 @@
    "usd_hr": 5.12071875,
    "kind": "on-demand",
    "source_url": "https://ec2.shop",
-   "fetched_at": "2026-10-02T05:20:02.717Z",
+   "fetched_at": "2026-10-02T06:18:04.765Z",
    "min_gpus": 8
   },
   {
@@ -1460,7 +1469,7 @@
    "usd_hr": 10.6,
    "kind": "on-demand",
    "source_url": "https://ec2.shop",
-   "fetched_at": "2026-10-02T05:20:02.717Z",
+   "fetched_at": "2026-10-02T06:18:04.765Z",
    "min_gpus": 8
   },
   {
@@ -1470,7 +1479,7 @@
    "usd_hr": 12.29,
    "kind": "on-demand",
    "source_url": "https://ec2.shop",
-   "fetched_at": "2026-10-02T05:20:02.717Z",
+   "fetched_at": "2026-10-02T06:18:04.765Z",
    "min_gpus": 8
   },
   {
@@ -1480,7 +1489,7 @@
    "usd_hr": 7.220225,
    "kind": "spot",
    "source_url": "https://ec2.shop",
-   "fetched_at": "2026-10-02T05:20:02.717Z",
+   "fetched_at": "2026-10-02T06:18:04.765Z",
    "min_gpus": 8
   },
   {
@@ -1490,7 +1499,7 @@
    "usd_hr": 1.99,
    "kind": "on-demand",
    "source_url": "https://www.together.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.577Z"
+   "fetched_at": "2026-10-02T06:18:04.046Z"
   },
   {
    "provider": "together",
@@ -1499,7 +1508,7 @@
    "usd_hr": 2.99,
    "kind": "on-demand",
    "source_url": "https://www.together.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.577Z"
+   "fetched_at": "2026-10-02T06:18:04.046Z"
   },
   {
    "provider": "together",
@@ -1508,7 +1517,7 @@
    "usd_hr": 4.09,
    "kind": "on-demand",
    "source_url": "https://www.together.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.577Z"
+   "fetched_at": "2026-10-02T06:18:04.046Z"
   },
   {
    "provider": "together",
@@ -1517,7 +1526,7 @@
    "usd_hr": 4.99,
    "kind": "on-demand",
    "source_url": "https://www.together.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.577Z"
+   "fetched_at": "2026-10-02T06:18:04.046Z"
   },
   {
    "provider": "fal",
@@ -1526,7 +1535,7 @@
    "usd_hr": 12.99,
    "kind": "serverless",
    "source_url": "https://fal.ai/pricing",
-   "fetched_at": "2026-10-02T05:00:02.850Z"
+   "fetched_at": "2026-10-02T06:17:09.489Z"
   },
   {
    "provider": "fal",
@@ -1535,7 +1544,7 @@
    "usd_hr": 9.99,
    "kind": "serverless",
    "source_url": "https://fal.ai/pricing",
-   "fetched_at": "2026-10-02T05:00:02.850Z"
+   "fetched_at": "2026-10-02T06:17:09.489Z"
   },
   {
    "provider": "fal",
@@ -1544,7 +1553,7 @@
    "usd_hr": 7.99,
    "kind": "serverless",
    "source_url": "https://fal.ai/pricing",
-   "fetched_at": "2026-10-02T05:00:02.850Z"
+   "fetched_at": "2026-10-02T06:17:09.489Z"
   },
   {
    "provider": "fal",
@@ -1553,7 +1562,7 @@
    "usd_hr": 6,
    "kind": "serverless",
    "source_url": "https://fal.ai/pricing",
-   "fetched_at": "2026-10-02T05:00:02.850Z"
+   "fetched_at": "2026-10-02T06:17:09.489Z"
   },
   {
    "provider": "fal",
@@ -1562,7 +1571,7 @@
    "usd_hr": 4.5,
    "kind": "serverless",
    "source_url": "https://fal.ai/pricing",
-   "fetched_at": "2026-10-02T05:00:02.850Z"
+   "fetched_at": "2026-10-02T06:17:09.489Z"
   },
   {
    "provider": "fal",
@@ -1571,7 +1580,7 @@
    "usd_hr": 4,
    "kind": "serverless",
    "source_url": "https://fal.ai/pricing",
-   "fetched_at": "2026-10-02T05:00:02.850Z"
+   "fetched_at": "2026-10-02T06:17:09.489Z"
   },
   {
    "provider": "modal",
@@ -1580,7 +1589,7 @@
    "usd_hr": 7.099199999999999,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.092Z"
+   "fetched_at": "2026-10-02T06:18:04.256Z"
   },
   {
    "provider": "modal",
@@ -1589,7 +1598,7 @@
    "usd_hr": 6.2496,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.092Z"
+   "fetched_at": "2026-10-02T06:18:04.256Z"
   },
   {
    "provider": "modal",
@@ -1598,7 +1607,7 @@
    "usd_hr": 4.5396,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.092Z"
+   "fetched_at": "2026-10-02T06:18:04.256Z"
   },
   {
    "provider": "modal",
@@ -1607,7 +1616,7 @@
    "usd_hr": 3.9492000000000003,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.092Z"
+   "fetched_at": "2026-10-02T06:18:04.256Z"
   },
   {
    "provider": "modal",
@@ -1616,7 +1625,7 @@
    "usd_hr": 3.0312,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.092Z"
+   "fetched_at": "2026-10-02T06:18:04.256Z"
   },
   {
    "provider": "modal",
@@ -1625,7 +1634,7 @@
    "usd_hr": 2.4983999999999997,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.092Z"
+   "fetched_at": "2026-10-02T06:18:04.256Z"
   },
   {
    "provider": "modal",
@@ -1634,7 +1643,7 @@
    "usd_hr": 2.0987999999999998,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.092Z"
+   "fetched_at": "2026-10-02T06:18:04.256Z"
   },
   {
    "provider": "modal",
@@ -1643,7 +1652,7 @@
    "usd_hr": 1.9511999999999998,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.092Z"
+   "fetched_at": "2026-10-02T06:18:04.256Z"
   },
   {
    "provider": "modal",
@@ -1652,7 +1661,7 @@
    "usd_hr": 1.1016000000000001,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.092Z"
+   "fetched_at": "2026-10-02T06:18:04.256Z"
   },
   {
    "provider": "modal",
@@ -1661,7 +1670,7 @@
    "usd_hr": 0.7992,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.092Z"
+   "fetched_at": "2026-10-02T06:18:04.256Z"
   },
   {
    "provider": "modal",
@@ -1670,7 +1679,7 @@
    "usd_hr": 0.5904,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.092Z"
+   "fetched_at": "2026-10-02T06:18:04.256Z"
   },
   {
    "provider": "vultr",
@@ -1679,7 +1688,7 @@
    "usd_hr": 1.671,
    "kind": "on-demand",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-02T05:20:19.973Z",
+   "fetched_at": "2026-10-02T06:18:04.878Z",
    "min_gpus": 1
   },
   {
@@ -1689,7 +1698,7 @@
    "usd_hr": 2.397,
    "kind": "on-demand",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-02T05:20:19.973Z",
+   "fetched_at": "2026-10-02T06:18:04.878Z",
    "min_gpus": 1
   },
   {
@@ -1699,7 +1708,7 @@
    "usd_hr": 1.712,
    "kind": "on-demand",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-02T05:20:19.973Z",
+   "fetched_at": "2026-10-02T06:18:04.878Z",
    "min_gpus": 1
   },
   {
@@ -1709,7 +1718,7 @@
    "usd_hr": 2.3,
    "kind": "spot",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-02T05:20:19.973Z",
+   "fetched_at": "2026-10-02T06:18:04.878Z",
    "min_gpus": 8
   },
   {
@@ -1719,7 +1728,7 @@
    "usd_hr": 3.2,
    "kind": "spot",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-02T05:20:19.973Z",
+   "fetched_at": "2026-10-02T06:18:04.878Z",
    "min_gpus": 8
   },
   {
@@ -1729,7 +1738,7 @@
    "usd_hr": 2.59,
    "kind": "spot",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-02T05:20:19.973Z",
+   "fetched_at": "2026-10-02T06:18:04.878Z",
    "min_gpus": 8
   },
   {
@@ -1739,7 +1748,7 @@
    "usd_hr": 2,
    "kind": "spot",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-02T05:20:19.973Z",
+   "fetched_at": "2026-10-02T06:18:04.878Z",
    "min_gpus": 8
   },
   {
@@ -1749,7 +1758,7 @@
    "usd_hr": 2.19,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1759,7 +1768,7 @@
    "usd_hr": 3.62,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1769,7 +1778,7 @@
    "usd_hr": 0.92,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1779,7 +1788,7 @@
    "usd_hr": 2.73,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1789,7 +1798,7 @@
    "usd_hr": 2.92,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 2
   },
   {
@@ -1799,7 +1808,7 @@
    "usd_hr": 3.14,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1809,7 +1818,7 @@
    "usd_hr": 1.35,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1819,7 +1828,7 @@
    "usd_hr": 1.38,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1829,7 +1838,7 @@
    "usd_hr": 0.97,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1839,7 +1848,7 @@
    "usd_hr": 0.86,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1849,7 +1858,7 @@
    "usd_hr": 0.79,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1859,7 +1868,7 @@
    "usd_hr": 0.57,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1869,7 +1878,7 @@
    "usd_hr": 0.44,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1879,7 +1888,7 @@
    "usd_hr": 0.35,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.518Z",
+   "fetched_at": "2026-10-02T06:18:05.279Z",
    "min_gpus": 1
   },
   {
@@ -1889,7 +1898,7 @@
    "usd_hr": 2.25,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.005Z"
   },
   {
    "provider": "tensordock",
@@ -1898,7 +1907,7 @@
    "usd_hr": 1.8,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.005Z"
   },
   {
    "provider": "tensordock",
@@ -1907,7 +1916,7 @@
    "usd_hr": 1.5,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.005Z"
   },
   {
    "provider": "tensordock",
@@ -1916,7 +1925,7 @@
    "usd_hr": 0.17,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.005Z"
   },
   {
    "provider": "tensordock",
@@ -1925,7 +1934,7 @@
    "usd_hr": 0.95,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.005Z"
   },
   {
    "provider": "tensordock",
@@ -1934,7 +1943,7 @@
    "usd_hr": 0.35,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.005Z"
   },
   {
    "provider": "tensordock",
@@ -1943,7 +1952,7 @@
    "usd_hr": 0.2,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.005Z"
   },
   {
    "provider": "tensordock",
@@ -1952,7 +1961,7 @@
    "usd_hr": 0.75,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.005Z"
   },
   {
    "provider": "tensordock",
@@ -1961,7 +1970,7 @@
    "usd_hr": 0.45,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.005Z"
   },
   {
    "provider": "tensordock",
@@ -1970,7 +1979,7 @@
    "usd_hr": 0.1,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.005Z"
   },
   {
    "provider": "tensordock",
@@ -1979,7 +1988,7 @@
    "usd_hr": 1.91,
    "kind": "spot",
    "source_url": "https://www.tensordock.com/gpu-h100.html",
-   "fetched_at": "2026-10-02T05:20:02.691Z"
+   "fetched_at": "2026-10-02T06:18:04.005Z"
   },
   {
    "provider": "salad",
@@ -1988,7 +1997,7 @@
    "usd_hr": 0.25,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "salad",
@@ -1997,7 +2006,7 @@
    "usd_hr": 0.16,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "salad",
@@ -2006,7 +2015,7 @@
    "usd_hr": 0.15,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "salad",
@@ -2015,7 +2024,7 @@
    "usd_hr": 0.1,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "salad",
@@ -2024,7 +2033,7 @@
    "usd_hr": 0.1,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "salad",
@@ -2033,7 +2042,7 @@
    "usd_hr": 0.09,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "salad",
@@ -2042,7 +2051,7 @@
    "usd_hr": 0.1,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "salad",
@@ -2051,7 +2060,7 @@
    "usd_hr": 0.09,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "salad",
@@ -2060,7 +2069,7 @@
    "usd_hr": 0.08,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "salad",
@@ -2069,7 +2078,7 @@
    "usd_hr": 0.07,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "salad",
@@ -2078,7 +2087,7 @@
    "usd_hr": 0.07,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "salad",
@@ -2087,7 +2096,7 @@
    "usd_hr": 0.08,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "salad",
@@ -2096,7 +2105,7 @@
    "usd_hr": 0.065,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-02T05:20:02.857Z"
+   "fetched_at": "2026-10-02T06:18:05.175Z"
   },
   {
    "provider": "replicate",
@@ -2105,7 +2114,7 @@
    "usd_hr": 5.04,
    "kind": "serverless",
    "source_url": "https://replicate.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.244Z"
+   "fetched_at": "2026-10-02T06:18:05.465Z"
   },
   {
    "provider": "replicate",
@@ -2114,7 +2123,7 @@
    "usd_hr": 5.49,
    "kind": "serverless",
    "source_url": "https://replicate.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.244Z"
+   "fetched_at": "2026-10-02T06:18:05.465Z"
   },
   {
    "provider": "replicate",
@@ -2123,7 +2132,7 @@
    "usd_hr": 3.51,
    "kind": "serverless",
    "source_url": "https://replicate.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.244Z"
+   "fetched_at": "2026-10-02T06:18:05.465Z"
   },
   {
    "provider": "replicate",
@@ -2132,7 +2141,7 @@
    "usd_hr": 0.81,
    "kind": "serverless",
    "source_url": "https://replicate.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.244Z"
+   "fetched_at": "2026-10-02T06:18:05.465Z"
   },
   {
    "provider": "replicate",
@@ -2141,7 +2150,7 @@
    "usd_hr": 5.49,
    "kind": "serverless",
    "source_url": "https://replicate.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.244Z"
+   "fetched_at": "2026-10-02T06:18:05.465Z"
   },
   {
    "provider": "fireworks",
@@ -2150,7 +2159,7 @@
    "usd_hr": 8,
    "kind": "serverless",
    "source_url": "https://fireworks.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.743Z"
+   "fetched_at": "2026-10-02T06:18:05.365Z"
   },
   {
    "provider": "fireworks",
@@ -2159,7 +2168,7 @@
    "usd_hr": 8,
    "kind": "serverless",
    "source_url": "https://fireworks.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.743Z"
+   "fetched_at": "2026-10-02T06:18:05.365Z"
   },
   {
    "provider": "fireworks",
@@ -2168,7 +2177,7 @@
    "usd_hr": 13,
    "kind": "serverless",
    "source_url": "https://fireworks.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.743Z"
+   "fetched_at": "2026-10-02T06:18:05.365Z"
   },
   {
    "provider": "fireworks",
@@ -2177,7 +2186,7 @@
    "usd_hr": 15,
    "kind": "serverless",
    "source_url": "https://fireworks.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.743Z"
+   "fetched_at": "2026-10-02T06:18:05.365Z"
   },
   {
    "provider": "fireworks",
@@ -2186,7 +2195,7 @@
    "usd_hr": 20,
    "kind": "serverless",
    "source_url": "https://fireworks.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:02.743Z"
+   "fetched_at": "2026-10-02T06:18:05.365Z"
   },
   {
    "provider": "baseten",
@@ -2195,7 +2204,7 @@
    "usd_hr": 0.6312,
    "kind": "serverless",
    "source_url": "https://www.baseten.co/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.565Z"
+   "fetched_at": "2026-10-02T06:18:05.027Z"
   },
   {
    "provider": "baseten",
@@ -2204,7 +2213,7 @@
    "usd_hr": 0.8484,
    "kind": "serverless",
    "source_url": "https://www.baseten.co/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.565Z"
+   "fetched_at": "2026-10-02T06:18:05.027Z"
   },
   {
    "provider": "baseten",
@@ -2213,7 +2222,7 @@
    "usd_hr": 1.2072,
    "kind": "serverless",
    "source_url": "https://www.baseten.co/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.565Z"
+   "fetched_at": "2026-10-02T06:18:05.027Z"
   },
   {
    "provider": "baseten",
@@ -2222,7 +2231,7 @@
    "usd_hr": 4,
    "kind": "serverless",
    "source_url": "https://www.baseten.co/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.565Z"
+   "fetched_at": "2026-10-02T06:18:05.027Z"
   },
   {
    "provider": "baseten",
@@ -2231,7 +2240,7 @@
    "usd_hr": 6.5,
    "kind": "serverless",
    "source_url": "https://www.baseten.co/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.565Z"
+   "fetched_at": "2026-10-02T06:18:05.027Z"
   },
   {
    "provider": "baseten",
@@ -2240,7 +2249,7 @@
    "usd_hr": 9.98,
    "kind": "serverless",
    "source_url": "https://www.baseten.co/pricing/",
-   "fetched_at": "2026-10-02T05:20:02.565Z"
+   "fetched_at": "2026-10-02T06:18:05.027Z"
   },
   {
    "provider": "digitalocean",
@@ -2249,7 +2258,7 @@
    "usd_hr": 4.41,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-02T05:20:02.640Z"
+   "fetched_at": "2026-10-02T06:18:05.219Z"
   },
   {
    "provider": "digitalocean",
@@ -2258,7 +2267,7 @@
    "usd_hr": 4.47,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-02T05:20:02.640Z"
+   "fetched_at": "2026-10-02T06:18:05.219Z"
   },
   {
    "provider": "digitalocean",
@@ -2267,7 +2276,7 @@
    "usd_hr": 11.19,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-02T05:20:02.640Z"
+   "fetched_at": "2026-10-02T06:18:05.219Z"
   },
   {
    "provider": "digitalocean",
@@ -2276,7 +2285,7 @@
    "usd_hr": 1.57,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-02T05:20:02.640Z"
+   "fetched_at": "2026-10-02T06:18:05.219Z"
   },
   {
    "provider": "digitalocean",
@@ -2285,7 +2294,7 @@
    "usd_hr": 1.57,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-02T05:20:02.640Z"
+   "fetched_at": "2026-10-02T06:18:05.219Z"
   },
   {
    "provider": "digitalocean",
@@ -2294,7 +2303,7 @@
    "usd_hr": 2.59,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-02T05:20:02.640Z"
+   "fetched_at": "2026-10-02T06:18:05.219Z"
   },
   {
    "provider": "digitalocean",
@@ -2303,7 +2312,7 @@
    "usd_hr": 3.8,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-02T05:20:02.640Z"
+   "fetched_at": "2026-10-02T06:18:05.219Z"
   },
   {
    "provider": "digitalocean",
@@ -2312,7 +2321,7 @@
    "usd_hr": 6.16,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-02T05:20:02.640Z"
+   "fetched_at": "2026-10-02T06:18:05.219Z"
   },
   {
    "provider": "gmicloud",
@@ -2321,7 +2330,7 @@
    "usd_hr": 8,
    "kind": "on-demand",
    "source_url": "https://www.gmicloud.ai/en/pricing",
-   "fetched_at": "2026-10-02T05:20:02.366Z"
+   "fetched_at": "2026-10-02T06:18:04.908Z"
   },
   {
    "provider": "gmicloud",
@@ -2330,7 +2339,7 @@
    "usd_hr": 2,
    "kind": "on-demand",
    "source_url": "https://www.gmicloud.ai/en/pricing",
-   "fetched_at": "2026-10-02T05:20:02.366Z"
+   "fetched_at": "2026-10-02T06:18:04.908Z"
   },
   {
    "provider": "gmicloud",
@@ -2339,7 +2348,7 @@
    "usd_hr": 2.6,
    "kind": "on-demand",
    "source_url": "https://www.gmicloud.ai/en/pricing",
-   "fetched_at": "2026-10-02T05:20:02.366Z"
+   "fetched_at": "2026-10-02T06:18:04.908Z"
   },
   {
    "provider": "gmicloud",
@@ -2348,7 +2357,7 @@
    "usd_hr": 4,
    "kind": "on-demand",
    "source_url": "https://www.gmicloud.ai/en/pricing",
-   "fetched_at": "2026-10-02T05:20:02.366Z"
+   "fetched_at": "2026-10-02T06:18:04.908Z"
   },
   {
    "provider": "primeintellect",
@@ -2357,7 +2366,7 @@
    "usd_hr": 4.99,
    "kind": "on-demand",
    "source_url": "https://www.primeintellect.ai/",
-   "fetched_at": "2026-10-02T05:20:03.005Z"
+   "fetched_at": "2026-10-02T06:18:04.949Z"
   },
   {
    "provider": "primeintellect",
@@ -2366,7 +2375,7 @@
    "usd_hr": 3.49,
    "kind": "on-demand",
    "source_url": "https://www.primeintellect.ai/",
-   "fetched_at": "2026-10-02T05:20:03.005Z"
+   "fetched_at": "2026-10-02T06:18:04.949Z"
   },
   {
    "provider": "primeintellect",
@@ -2375,7 +2384,7 @@
    "usd_hr": 3.14,
    "kind": "on-demand",
    "source_url": "https://www.primeintellect.ai/",
-   "fetched_at": "2026-10-02T05:20:03.005Z"
+   "fetched_at": "2026-10-02T06:18:04.949Z"
   },
   {
    "provider": "primeintellect",
@@ -2384,7 +2393,7 @@
    "usd_hr": 2.43,
    "kind": "on-demand",
    "source_url": "https://www.primeintellect.ai/",
-   "fetched_at": "2026-10-02T05:20:03.005Z"
+   "fetched_at": "2026-10-02T06:18:04.949Z"
   },
   {
    "provider": "primeintellect",
@@ -2393,7 +2402,7 @@
    "usd_hr": 0.94,
    "kind": "spot",
    "source_url": "https://www.primeintellect.ai/",
-   "fetched_at": "2026-10-02T05:20:03.005Z"
+   "fetched_at": "2026-10-02T06:18:04.949Z"
   },
   {
    "provider": "cerebrium",
@@ -2402,7 +2411,7 @@
    "usd_hr": 0.5904,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:03.117Z"
+   "fetched_at": "2026-10-02T06:18:04.929Z"
   },
   {
    "provider": "cerebrium",
@@ -2411,7 +2420,7 @@
    "usd_hr": 0.7992,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:03.117Z"
+   "fetched_at": "2026-10-02T06:18:04.929Z"
   },
   {
    "provider": "cerebrium",
@@ -2420,7 +2429,7 @@
    "usd_hr": 1.1016,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:03.117Z"
+   "fetched_at": "2026-10-02T06:18:04.929Z"
   },
   {
    "provider": "cerebrium",
@@ -2429,7 +2438,7 @@
    "usd_hr": 1.998,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:03.117Z"
+   "fetched_at": "2026-10-02T06:18:04.929Z"
   },
   {
    "provider": "cerebrium",
@@ -2438,7 +2447,7 @@
    "usd_hr": 1.9512,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:03.117Z"
+   "fetched_at": "2026-10-02T06:18:04.929Z"
   },
   {
    "provider": "cerebrium",
@@ -2447,7 +2456,7 @@
    "usd_hr": 2.0988,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:03.117Z"
+   "fetched_at": "2026-10-02T06:18:04.929Z"
   },
   {
    "provider": "cerebrium",
@@ -2456,7 +2465,7 @@
    "usd_hr": 3.3984,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:03.117Z"
+   "fetched_at": "2026-10-02T06:18:04.929Z"
   },
   {
    "provider": "cerebrium",
@@ -2465,7 +2474,7 @@
    "usd_hr": 4.1976,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:03.117Z"
+   "fetched_at": "2026-10-02T06:18:04.929Z"
   },
   {
    "provider": "cerebrium",
@@ -2474,7 +2483,7 @@
    "usd_hr": 6.012,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:03.117Z"
+   "fetched_at": "2026-10-02T06:18:04.929Z"
   },
   {
    "provider": "cerebrium",
@@ -2483,7 +2492,7 @@
    "usd_hr": 2.4984,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-02T05:20:03.117Z"
+   "fetched_at": "2026-10-02T06:18:04.929Z"
   },
   {
    "provider": "koyeb",
@@ -2492,7 +2501,7 @@
    "usd_hr": 0.7,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.070Z"
+   "fetched_at": "2026-10-02T06:18:04.668Z"
   },
   {
    "provider": "koyeb",
@@ -2501,7 +2510,7 @@
    "usd_hr": 0.75,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.070Z"
+   "fetched_at": "2026-10-02T06:18:04.668Z"
   },
   {
    "provider": "koyeb",
@@ -2510,7 +2519,7 @@
    "usd_hr": 1.2,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.070Z"
+   "fetched_at": "2026-10-02T06:18:04.668Z"
   },
   {
    "provider": "koyeb",
@@ -2519,7 +2528,7 @@
    "usd_hr": 1.6,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.070Z"
+   "fetched_at": "2026-10-02T06:18:04.668Z"
   },
   {
    "provider": "koyeb",
@@ -2528,7 +2537,7 @@
    "usd_hr": 2.15,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.070Z"
+   "fetched_at": "2026-10-02T06:18:04.668Z"
   },
   {
    "provider": "koyeb",
@@ -2537,7 +2546,7 @@
    "usd_hr": 2.2,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.070Z"
+   "fetched_at": "2026-10-02T06:18:04.668Z"
   },
   {
    "provider": "koyeb",
@@ -2546,7 +2555,7 @@
    "usd_hr": 2.5,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.070Z"
+   "fetched_at": "2026-10-02T06:18:04.668Z"
   },
   {
    "provider": "koyeb",
@@ -2555,7 +2564,7 @@
    "usd_hr": 3,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.070Z"
+   "fetched_at": "2026-10-02T06:18:04.668Z"
   },
   {
    "provider": "koyeb",
@@ -2564,7 +2573,7 @@
    "usd_hr": 5.5,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-02T05:20:03.070Z"
+   "fetched_at": "2026-10-02T06:18:04.668Z"
   },
   {
    "provider": "thundercompute",
@@ -2573,7 +2582,7 @@
    "usd_hr": 0.35,
    "kind": "on-demand",
    "source_url": "https://www.thundercompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:02.968Z"
+   "fetched_at": "2026-10-02T06:18:04.360Z"
   },
   {
    "provider": "thundercompute",
@@ -2582,7 +2591,7 @@
    "usd_hr": 0.79,
    "kind": "on-demand",
    "source_url": "https://www.thundercompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:02.968Z"
+   "fetched_at": "2026-10-02T06:18:04.360Z"
   },
   {
    "provider": "thundercompute",
@@ -2591,7 +2600,7 @@
    "usd_hr": 1.09,
    "kind": "on-demand",
    "source_url": "https://www.thundercompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:02.968Z"
+   "fetched_at": "2026-10-02T06:18:04.360Z"
   },
   {
    "provider": "thundercompute",
@@ -2600,7 +2609,7 @@
    "usd_hr": 3.2,
    "kind": "on-demand",
    "source_url": "https://www.thundercompute.com/pricing",
-   "fetched_at": "2026-10-02T05:20:02.968Z"
+   "fetched_at": "2026-10-02T06:18:04.360Z"
   },
   {
    "provider": "latitude",
@@ -2609,7 +2618,7 @@
    "usd_hr": 3.37,
    "kind": "on-demand",
    "source_url": "https://www.latitude.sh/pricing",
-   "fetched_at": "2026-10-02T05:20:02.803Z"
+   "fetched_at": "2026-10-02T06:18:04.303Z"
   },
   {
    "provider": "latitude",
@@ -2618,7 +2627,7 @@
    "usd_hr": 6,
    "kind": "on-demand",
    "source_url": "https://www.latitude.sh/pricing",
-   "fetched_at": "2026-10-02T05:20:02.803Z",
+   "fetched_at": "2026-10-02T06:18:04.303Z",
    "min_gpus": 8
   },
   {
@@ -2628,7 +2637,7 @@
    "usd_hr": 16,
    "kind": "on-demand",
    "source_url": "https://www.latitude.sh/pricing",
-   "fetched_at": "2026-10-02T05:20:02.803Z",
+   "fetched_at": "2026-10-02T06:18:04.303Z",
    "min_gpus": 8
   },
   {
@@ -2638,7 +2647,7 @@
    "usd_hr": 2.99,
    "kind": "on-demand",
    "source_url": "https://hotaisle.xyz/pricing",
-   "fetched_at": "2026-10-02T05:20:02.475Z"
+   "fetched_at": "2026-10-02T06:18:04.014Z"
   },
   {
    "provider": "scaleway",
@@ -2647,7 +2656,7 @@
    "usd_hr": 0.8897,
    "kind": "on-demand",
    "source_url": "https://www.scaleway.com/en/pricing/gpu/",
-   "fetched_at": "2026-10-02T05:20:02.378Z"
+   "fetched_at": "2026-10-02T06:18:03.869Z"
   },
   {
    "provider": "scaleway",
@@ -2656,7 +2665,7 @@
    "usd_hr": 8.4735,
    "kind": "on-demand",
    "source_url": "https://www.scaleway.com/en/pricing/gpu/",
-   "fetched_at": "2026-10-02T05:20:02.378Z",
+   "fetched_at": "2026-10-02T06:18:03.869Z",
    "min_gpus": 8
   },
   {
@@ -2666,7 +2675,7 @@
    "usd_hr": 3.2386,
    "kind": "on-demand",
    "source_url": "https://www.scaleway.com/en/pricing/gpu/",
-   "fetched_at": "2026-10-02T05:20:02.378Z"
+   "fetched_at": "2026-10-02T06:18:03.869Z"
   },
   {
    "provider": "scaleway",
@@ -2675,7 +2684,7 @@
    "usd_hr": 3.6072,
    "kind": "on-demand",
    "source_url": "https://www.scaleway.com/en/pricing/gpu/",
-   "fetched_at": "2026-10-02T05:20:02.378Z",
+   "fetched_at": "2026-10-02T06:18:03.869Z",
    "min_gpus": 4
   },
   {
@@ -2685,7 +2694,7 @@
    "usd_hr": 1.6607,
    "kind": "on-demand",
    "source_url": "https://www.scaleway.com/en/pricing/gpu/",
-   "fetched_at": "2026-10-02T05:20:02.378Z"
+   "fetched_at": "2026-10-02T06:18:03.869Z"
   },
   {
    "provider": "gcp",
@@ -2694,7 +2703,7 @@
    "usd_hr": 2.9339079999999997,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2703,7 +2712,7 @@
    "usd_hr": 0.5252,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2712,7 +2721,7 @@
    "usd_hr": 0.199,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2721,7 +2730,7 @@
    "usd_hr": 16.11,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2730,7 +2739,7 @@
    "usd_hr": 1.7603,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2739,7 +2748,7 @@
    "usd_hr": 1.4734,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2748,7 +2757,7 @@
    "usd_hr": 9.31174,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2757,7 +2766,7 @@
    "usd_hr": 5.586,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2766,7 +2775,7 @@
    "usd_hr": 5.8632,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2775,7 +2784,7 @@
    "usd_hr": 9.796550569,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2784,7 +2793,7 @@
    "usd_hr": 4.9542,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2793,7 +2802,7 @@
    "usd_hr": 0.35,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2802,7 +2811,7 @@
    "usd_hr": 0.560040239,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2811,7 +2820,7 @@
    "usd_hr": 0.336,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2820,7 +2829,7 @@
    "usd_hr": 1.09565,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2829,7 +2838,7 @@
    "usd_hr": 2.48,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2838,7 +2847,7 @@
    "usd_hr": 2.3568,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   },
   {
    "provider": "gcp",
@@ -2847,193 +2856,193 @@
    "usd_hr": 3.92808,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-02T05:20:02.181Z"
+   "fetched_at": "2026-10-02T06:18:03.709Z"
   }
  ],
  "providers": {
   "runpod": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.448Z",
+   "last_verified": "2026-10-02T06:18:03.899Z",
    "stale": false,
    "source_url": "https://www.runpod.io/pricing"
   },
   "lambda": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.492Z",
+   "last_verified": "2026-10-02T06:18:03.812Z",
    "stale": false,
    "source_url": "https://lambda.ai/service/gpu-cloud"
   },
   "hyperstack": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.381Z",
+   "last_verified": "2026-10-02T06:18:04.368Z",
    "stale": false,
    "source_url": "https://www.hyperstack.cloud/gpu-pricing"
   },
   "coreweave": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.586Z",
+   "last_verified": "2026-10-02T06:18:04.018Z",
    "stale": false,
    "source_url": "https://www.coreweave.com/pricing"
   },
   "nebius": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.491Z",
+   "last_verified": "2026-10-02T06:18:04.813Z",
    "stale": false,
    "source_url": "https://docs.nebius.com/compute/resources/pricing"
   },
   "datacrunch": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:03.084Z",
+   "last_verified": "2026-10-02T06:18:05.010Z",
    "stale": false,
    "source_url": "https://datacrunch.io/pricing"
   },
   "voltagepark": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.817Z",
+   "last_verified": "2026-10-02T06:18:05.340Z",
    "stale": false,
    "source_url": "https://support.voltagepark.com/article/example-deploying-gpt-oss-on-voltage-park"
   },
   "crusoe": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.876Z",
+   "last_verified": "2026-10-02T06:18:04.396Z",
    "stale": false,
    "source_url": "https://www.crusoe.ai/cloud/pricing"
   },
   "jarvislabs": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.877Z",
+   "last_verified": "2026-10-02T06:18:04.366Z",
    "stale": false,
    "source_url": "https://jarvislabs.ai/pricing"
   },
   "ovh": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.685Z",
+   "last_verified": "2026-10-02T06:18:04.564Z",
    "stale": false,
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/"
   },
   "spheron": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.691Z",
+   "last_verified": "2026-10-02T06:18:04.172Z",
    "stale": false,
    "source_url": "https://www.spheron.network/pricing/"
   },
   "azure": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:03.071Z",
+   "last_verified": "2026-10-02T06:18:04.227Z",
    "stale": false,
    "source_url": "https://prices.azure.com/api/retail/prices"
   },
   "aws": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.717Z",
+   "last_verified": "2026-10-02T06:18:04.765Z",
    "stale": false,
    "source_url": "https://ec2.shop"
   },
   "together": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.577Z",
+   "last_verified": "2026-10-02T06:18:04.046Z",
    "stale": false,
    "source_url": "https://www.together.ai/pricing"
   },
   "fal": {
    "ok": true,
-   "last_verified": "2026-10-02T05:00:02.850Z",
+   "last_verified": "2026-10-02T06:17:09.489Z",
    "stale": false,
    "source_url": "https://fal.ai/pricing"
   },
   "modal": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:03.092Z",
+   "last_verified": "2026-10-02T06:18:04.256Z",
    "stale": false,
    "source_url": "https://modal.com/pricing"
   },
   "vultr": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:19.973Z",
+   "last_verified": "2026-10-02T06:18:04.878Z",
    "stale": false,
    "source_url": "https://www.vultr.com/pricing/"
   },
   "massedcompute": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:03.518Z",
+   "last_verified": "2026-10-02T06:18:05.279Z",
    "stale": false,
    "source_url": "https://massedcompute.com/pricing"
   },
   "tensordock": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.691Z",
+   "last_verified": "2026-10-02T06:18:04.005Z",
    "stale": false,
    "source_url": "https://www.tensordock.com/cloud-gpus.html"
   },
   "salad": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.857Z",
+   "last_verified": "2026-10-02T06:18:05.175Z",
    "stale": false,
    "source_url": "https://salad.com/pricing"
   },
   "replicate": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:03.244Z",
+   "last_verified": "2026-10-02T06:18:05.465Z",
    "stale": false,
    "source_url": "https://replicate.com/pricing"
   },
   "fireworks": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.743Z",
+   "last_verified": "2026-10-02T06:18:05.365Z",
    "stale": false,
    "source_url": "https://fireworks.ai/pricing"
   },
   "baseten": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.565Z",
+   "last_verified": "2026-10-02T06:18:05.027Z",
    "stale": false,
    "source_url": "https://www.baseten.co/pricing/"
   },
   "digitalocean": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.640Z",
+   "last_verified": "2026-10-02T06:18:05.219Z",
    "stale": false,
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets"
   },
   "gmicloud": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.366Z",
+   "last_verified": "2026-10-02T06:18:04.908Z",
    "stale": false,
    "source_url": "https://www.gmicloud.ai/en/pricing"
   },
   "primeintellect": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:03.005Z",
+   "last_verified": "2026-10-02T06:18:04.949Z",
    "stale": false,
    "source_url": "https://www.primeintellect.ai/"
   },
   "cerebrium": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:03.117Z",
+   "last_verified": "2026-10-02T06:18:04.929Z",
    "stale": false,
    "source_url": "https://www.cerebrium.ai/pricing"
   },
   "koyeb": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:03.070Z",
+   "last_verified": "2026-10-02T06:18:04.668Z",
    "stale": false,
    "source_url": "https://www.koyeb.com/pricing"
   },
   "thundercompute": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.968Z",
+   "last_verified": "2026-10-02T06:18:04.360Z",
    "stale": false,
    "source_url": "https://www.thundercompute.com/pricing"
   },
   "latitude": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.803Z",
+   "last_verified": "2026-10-02T06:18:04.303Z",
    "stale": false,
    "source_url": "https://www.latitude.sh/pricing"
   },
   "hotaisle": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.475Z",
+   "last_verified": "2026-10-02T06:18:04.014Z",
    "stale": false,
    "source_url": "https://hotaisle.xyz/pricing"
   },
@@ -3059,13 +3068,13 @@
   },
   "scaleway": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.378Z",
+   "last_verified": "2026-10-02T06:18:03.869Z",
    "stale": false,
    "source_url": "https://www.scaleway.com/en/pricing/gpu/"
   },
   "gcp": {
    "ok": true,
-   "last_verified": "2026-10-02T05:20:02.181Z",
+   "last_verified": "2026-10-02T06:18:03.709Z",
    "stale": false,
    "source_url": "https://cloud.google.com/compute/gpus-pricing"
   }
@@ -3133,8 +3142,12 @@
     "name": "RTX PRO 5000"
    },
    {
-    "provider": "digitalocean",
-    "name": "NVIDIA RTX 4000 Ada Generation"
+    "provider": "koyeb",
+    "name": "RTX 4000 SFF ADA"
+   },
+   {
+    "provider": "vultr",
+    "name": "NVIDIA A16"
    },
    {
     "provider": "salad",
@@ -3153,12 +3166,8 @@
     "name": "RTX 3080"
    },
    {
-    "provider": "koyeb",
-    "name": "RTX 4000 SFF ADA"
-   },
-   {
-    "provider": "vultr",
-    "name": "NVIDIA A16"
+    "provider": "digitalocean",
+    "name": "NVIDIA RTX 4000 Ada Generation"
    }
   ],
   "not_public_providers": [
