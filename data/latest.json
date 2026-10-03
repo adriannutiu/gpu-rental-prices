@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "generated_at": "2026-10-03T05:20:15.393Z",
+ "generated_at": "2026-10-03T06:20:04.174Z",
  "offers": [
   {
    "provider": "runpod",
@@ -9,7 +9,7 @@
    "usd_hr": 2.39,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -18,7 +18,7 @@
    "usd_hr": 5.49,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -27,7 +27,7 @@
    "usd_hr": 1.59,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 8,
    "ram_label": "117 GB RAM",
    "source_quote": "A100 PCIe 80 GB VRAM 117 GB RAM 8 vCPUs $ 1.59 /hr 80 GB VRAM 117 GB RAM 8 vCPUs "
@@ -39,7 +39,7 @@
    "usd_hr": 1.19,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -48,7 +48,7 @@
    "usd_hr": 1,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -57,7 +57,7 @@
    "usd_hr": 1.59,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 16,
    "ram_label": "125 GB RAM",
    "source_quote": "A100 SXM 80 GB VRAM 125 GB RAM 16 vCPUs $ 1.59 /hr 80 GB VRAM 125 GB RAM 16 vCPUs "
@@ -69,7 +69,7 @@
    "usd_hr": 1.39,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -78,7 +78,7 @@
    "usd_hr": 0.49,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 9,
    "ram_label": "50 GB RAM",
    "source_quote": "A40 48 GB VRAM 50 GB RAM 9 vCPUs $ 0.49 /hr 48 GB VRAM 50 GB RAM 9 vCPUs "
@@ -90,7 +90,7 @@
    "usd_hr": 6.79,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 28,
    "ram_label": "283 GB RAM",
    "source_quote": "B200 180 GB VRAM 283 GB RAM 28 vCPUs $ 6.79 /hr 180 GB VRAM 283 GB RAM 28 vCPUs "
@@ -102,7 +102,7 @@
    "usd_hr": 5.98,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -111,7 +111,7 @@
    "usd_hr": 7.89,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 32,
    "ram_label": "251 GB RAM",
    "source_quote": "B300 288 GB HBM3e 251 GB RAM 32 vCPUs $ 7.89 /hr 288 GB HBM3e 251 GB RAM 32 vCPUs "
@@ -123,7 +123,7 @@
    "usd_hr": 6.94,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -132,7 +132,7 @@
    "usd_hr": 0.5,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 16,
    "ram_label": "125 GB RAM",
    "source_quote": "RTX 3090 24 GB VRAM 125 GB RAM 16 vCPUs $ 0.5 /hr 24 GB VRAM 125 GB RAM 16 vCPUs "
@@ -144,7 +144,7 @@
    "usd_hr": 0.22,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -153,7 +153,7 @@
    "usd_hr": 0.27,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -162,7 +162,7 @@
    "usd_hr": 0.74,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 6,
    "ram_label": "41 GB RAM",
    "source_quote": "RTX 4090 24 GB VRAM 41 GB RAM 6 vCPUs $ 0.74 /hr 24 GB VRAM 41 GB RAM 6 vCPUs "
@@ -174,7 +174,7 @@
    "usd_hr": 0.34,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -183,7 +183,7 @@
    "usd_hr": 0.39,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -192,7 +192,7 @@
    "usd_hr": 0.99,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 9,
    "ram_label": "35 GB RAM",
    "source_quote": "RTX 5090 32 GB VRAM 35 GB RAM 9 vCPUs $ 0.99 /hr 32 GB VRAM 35 GB RAM 9 vCPUs "
@@ -204,7 +204,7 @@
    "usd_hr": 0.69,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -213,7 +213,7 @@
    "usd_hr": 3.49,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 20,
    "ram_label": "125 GB RAM",
    "source_quote": "H100 SXM 80 GB VRAM 125 GB RAM 20 vCPUs $ 3.49 /hr 80 GB VRAM 125 GB RAM 20 vCPUs "
@@ -225,7 +225,7 @@
    "usd_hr": 2.69,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -234,7 +234,7 @@
    "usd_hr": 3.19,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 16,
    "ram_label": "94 GB RAM",
    "source_quote": "H100 NVL 94 GB VRAM 94 GB RAM 16 vCPUs $ 3.19 /hr 94 GB VRAM 94 GB RAM 16 vCPUs "
@@ -246,7 +246,7 @@
    "usd_hr": 2.59,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -255,7 +255,7 @@
    "usd_hr": 2.89,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 16,
    "ram_label": "188 GB RAM",
    "source_quote": "H100 PCIe 80 GB VRAM 188 GB RAM 16 vCPUs $ 2.89 /hr 80 GB VRAM 188 GB RAM 16 vCPUs "
@@ -267,7 +267,7 @@
    "usd_hr": 1.99,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -276,7 +276,7 @@
    "usd_hr": 4.59,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 24,
    "ram_label": "276 GB RAM",
    "source_quote": "H200 141 GB VRAM 276 GB RAM 24 vCPUs $ 4.59 /hr 141 GB VRAM 276 GB RAM 24 vCPUs "
@@ -288,7 +288,7 @@
    "usd_hr": 3.59,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -297,7 +297,7 @@
    "usd_hr": 3.79,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -306,7 +306,7 @@
    "usd_hr": 0.49,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 12,
    "ram_label": "50 GB RAM",
    "source_quote": "L4 24 GB VRAM 50 GB RAM 12 vCPUs $ 0.49 /hr 24 GB VRAM 50 GB RAM 12 vCPUs "
@@ -318,7 +318,7 @@
    "usd_hr": 0.82,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 8,
    "ram_label": "94 GB RAM",
    "source_quote": "L40 48 GB VRAM 94 GB RAM 8 vCPUs $ 0.82 /hr 48 GB VRAM 94 GB RAM 8 vCPUs "
@@ -330,7 +330,7 @@
    "usd_hr": 0.69,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -339,7 +339,7 @@
    "usd_hr": 1.09,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 16,
    "ram_label": "94 GB RAM",
    "source_quote": "L40S 48 GB VRAM 94 GB RAM 16 vCPUs $ 1.09 /hr 48 GB VRAM 94 GB RAM 16 vCPUs "
@@ -351,7 +351,7 @@
    "usd_hr": 0.79,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -360,7 +360,7 @@
    "usd_hr": 0.84,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 10,
    "ram_label": "167 GB RAM",
    "source_quote": "RTX 6000 Ada 48 GB VRAM 167 GB RAM 10 vCPUs $ 0.84 /hr 48 GB VRAM 167 GB RAM 10 vCPUs "
@@ -372,7 +372,7 @@
    "usd_hr": 0.74,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -381,7 +381,7 @@
    "usd_hr": 0.25,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -390,7 +390,7 @@
    "usd_hr": 0.17,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -399,7 +399,7 @@
    "usd_hr": 0.27,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 9,
    "ram_label": "25 GB RAM",
    "source_quote": "RTX A5000 24 GB VRAM 25 GB RAM 9 vCPUs $ 0.27 /hr 24 GB VRAM 25 GB RAM 9 vCPUs "
@@ -411,7 +411,7 @@
    "usd_hr": 0.16,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -420,7 +420,7 @@
    "usd_hr": 0.53,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "vcpus": 9,
    "ram_label": "50 GB RAM",
    "source_quote": "RTX A6000 48 GB VRAM 50 GB RAM 9 vCPUs $ 0.53 /hr 48 GB VRAM 50 GB RAM 9 vCPUs "
@@ -432,7 +432,7 @@
    "usd_hr": 0.33,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -441,7 +441,7 @@
    "usd_hr": 0.72,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -450,7 +450,7 @@
    "usd_hr": 1.64,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -459,7 +459,7 @@
    "usd_hr": 2.09,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -468,7 +468,7 @@
    "usd_hr": 1.69,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -477,7 +477,7 @@
    "usd_hr": 2.19,
    "kind": "secure",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -486,7 +486,7 @@
    "usd_hr": 1.69,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -495,7 +495,7 @@
    "usd_hr": 0.19,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -504,7 +504,7 @@
    "usd_hr": 0.23,
    "kind": "community",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z"
+   "fetched_at": "2026-10-03T06:19:59.942Z"
   },
   {
    "provider": "runpod",
@@ -514,7 +514,7 @@
    "kind": "serverless",
    "instance": "Flex worker",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "availability": "not-reported",
    "source_quote": "B200 | 180 GB | Flex worker | $8.64/hr"
   },
@@ -526,7 +526,7 @@
    "kind": "serverless",
    "instance": "Flex worker",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "availability": "not-reported",
    "source_quote": "H200 | 141 GB | Flex worker | $5.93/hr"
   },
@@ -538,7 +538,7 @@
    "kind": "serverless",
    "instance": "Flex worker",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "availability": "not-reported",
    "source_quote": "RTX 6000 Pro | 96 GB | Flex worker | $3.49/hr"
   },
@@ -550,7 +550,7 @@
    "kind": "serverless",
    "instance": "Flex worker",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "availability": "not-reported",
    "source_quote": "H100 | 80 GB | Flex worker | $4.79/hr"
   },
@@ -562,7 +562,7 @@
    "kind": "serverless",
    "instance": "Flex worker",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "availability": "not-reported",
    "source_quote": "A100 | 80 GB | Flex worker | $2.72/hr"
   },
@@ -574,7 +574,7 @@
    "kind": "serverless",
    "instance": "Flex worker",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "availability": "not-reported",
    "source_quote": "5090 | 32 GB | Flex worker | $1.58/hr"
   },
@@ -586,7 +586,7 @@
    "kind": "serverless",
    "instance": "Flex worker",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "availability": "not-reported",
    "source_quote": "RTX PRO 4500 Blackwell | 32 GB | Flex worker | $1.15/hr"
   },
@@ -598,7 +598,7 @@
    "kind": "serverless",
    "instance": "Flex worker",
    "source_url": "https://www.runpod.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.387Z",
+   "fetched_at": "2026-10-03T06:19:59.942Z",
    "availability": "not-reported",
    "source_quote": "4090 | 24 GB | Flex worker | $1.10/hr"
   },
@@ -617,7 +617,7 @@
    "ram_label": "2900 GiB",
    "disk_label": "22 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA B200 SXM6 180 GB 208 2900 GiB 22 TiB SSD $6.69"
   },
   {
@@ -635,7 +635,7 @@
    "ram_label": "1800 GiB",
    "disk_label": "22 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA H100 SXM 80 GB 208 1800 GiB 22 TiB SSD $3.99"
   },
   {
@@ -653,7 +653,7 @@
    "ram_label": "1800 GiB",
    "disk_label": "19.5 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA A100 SXM 80 GB 240 1800 GiB 19.5 TiB SSD $2.79"
   },
   {
@@ -671,7 +671,7 @@
    "ram_label": "1800 GiB",
    "disk_label": "5.8 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA A100 SXM 40 GB 124 1800 GiB 5.8 TiB SSD $1.99"
   },
   {
@@ -689,7 +689,7 @@
    "ram_label": "448 GiB",
    "disk_label": "5.8 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA Tesla V100 16 GB 88 448 GiB 5.8 TiB SSD $0.79"
   },
   {
@@ -707,7 +707,7 @@
    "ram_label": "1440 GiB",
    "disk_label": "11 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA B200 SXM6 180 GB 104 1440 GiB 11 TiB SSD $6.79"
   },
   {
@@ -725,7 +725,7 @@
    "ram_label": "900 GiB",
    "disk_label": "11 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA H100 SXM 80 GB 104 900 GiB 11 TiB SSD $4.09"
   },
   {
@@ -743,7 +743,7 @@
    "ram_label": "900 GiB",
    "disk_label": "1 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA A100 PCIe 40 GB 120 900 GiB 1 TiB SSD $1.99"
   },
   {
@@ -761,7 +761,7 @@
    "ram_label": "400 GiB",
    "disk_label": "1 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA A6000 48 GB 56 400 GiB 1 TiB SSD $1.09"
   },
   {
@@ -779,7 +779,7 @@
    "ram_label": "720 GiB",
    "disk_label": "5.5 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA B200 SXM6 180 GB 52 720 GiB 5.5 TiB SSD $6.89"
   },
   {
@@ -797,7 +797,7 @@
    "ram_label": "450 GiB",
    "disk_label": "5.5 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA H100 SXM 80 GB 52 450 GiB 5.5 TiB SSD $4.19"
   },
   {
@@ -815,7 +815,7 @@
    "ram_label": "450 GiB",
    "disk_label": "1 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA A100 PCIe 40 GB 60 450 GiB 1 TiB SSD $1.99"
   },
   {
@@ -833,7 +833,7 @@
    "ram_label": "200 GiB",
    "disk_label": "1 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA A6000 48 GB 28 200 GiB 1 TiB SSD $1.09"
   },
   {
@@ -851,7 +851,7 @@
    "ram_label": "360 GiB",
    "disk_label": "2.75 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA B200 SXM6 180 GB 26 360 GiB 2.75 TiB SSD $6.99"
   },
   {
@@ -869,7 +869,7 @@
    "ram_label": "432 GiB",
    "disk_label": "4 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA GH200 96 GB 64 432 GiB 4 TiB SSD $2.29"
   },
   {
@@ -887,7 +887,7 @@
    "ram_label": "225 GiB",
    "disk_label": "2.75 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA H100 SXM 80 GB 26 225 GiB 2.75 TiB SSD $4.29"
   },
   {
@@ -905,7 +905,7 @@
    "ram_label": "225 GiB",
    "disk_label": "1 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA H100 PCIe 80 GB 26 225 GiB 1 TiB SSD $3.29"
   },
   {
@@ -923,7 +923,7 @@
    "ram_label": "220 GiB",
    "disk_label": "512 GiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA A100 SXM 40 GB 30 220 GiB 512 GiB SSD $1.99"
   },
   {
@@ -941,7 +941,7 @@
    "ram_label": "225 GiB",
    "disk_label": "512 GiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA A100 PCIe 40 GB 30 225 GiB 512 GiB SSD $1.99"
   },
   {
@@ -959,7 +959,7 @@
    "ram_label": "226 GiB",
    "disk_label": "1.3 TiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA A10 24 GB 30 226 GiB 1.3 TiB SSD $1.29"
   },
   {
@@ -977,7 +977,7 @@
    "ram_label": "100 GiB",
    "disk_label": "512 GiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA A6000 48 GB 14 100 GiB 512 GiB SSD $1.09"
   },
   {
@@ -995,7 +995,7 @@
    "ram_label": "46 GiB",
    "disk_label": "512 GiB SSD",
    "source_url": "https://lambda.ai/instances",
-   "fetched_at": "2026-10-03T05:20:03.399Z",
+   "fetched_at": "2026-10-03T06:19:58.645Z",
    "source_quote": "NVIDIA Quadro RTX 6000 24 GB 14 46 GiB 512 GiB SSD $0.69"
   },
   {
@@ -1005,7 +1005,7 @@
    "usd_hr": 3.99,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA H200 SXM 141 22 225 $3.99 <div class=\"",
    "ram_label": "Up to 225 GB RAM; configuration-dependent"
@@ -1017,7 +1017,7 @@
    "usd_hr": 3.2,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA H100 SXM 80 24 240 $3.20 <div class=\"",
    "ram_label": "Up to 240 GB RAM; configuration-dependent"
@@ -1029,7 +1029,7 @@
    "usd_hr": 2.5,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA H100 80 28 180 $2.50 <div class=\"",
    "ram_label": "Up to 180 GB RAM; configuration-dependent"
@@ -1041,7 +1041,7 @@
    "usd_hr": 1.85,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA RTX Pro 6000 SE 96 31 180 $1.85 <div class=\"",
    "ram_label": "Up to 180 GB RAM; configuration-dependent"
@@ -1053,7 +1053,7 @@
    "usd_hr": 1.6,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA A100 SXM 80 24 120 $1.60 <div class=\"",
    "ram_label": "Up to 120 GB RAM; configuration-dependent"
@@ -1065,7 +1065,7 @@
    "usd_hr": 1.35,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA A100 80 28 120 &nbsp;$1.35 <div class=\"",
    "ram_label": "Up to 120 GB RAM; configuration-dependent"
@@ -1077,7 +1077,7 @@
    "usd_hr": 1,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA L40 48 28 120 &nbsp;$1.00 <div class=\"",
    "ram_label": "Up to 120 GB RAM; configuration-dependent"
@@ -1089,7 +1089,7 @@
    "usd_hr": 0.5,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA A6000 48 28 58 &nbsp;$0.50 <div class=\"",
    "ram_label": "Up to 58 GB RAM; configuration-dependent"
@@ -1101,7 +1101,7 @@
    "usd_hr": 0.15,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA A4000 16 6 24 &nbsp;$0.15 <div class=\"",
    "ram_label": "Up to 24 GB RAM; configuration-dependent"
@@ -1113,7 +1113,7 @@
    "usd_hr": 6,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA B200 192 31 256 $6.00 <div class=\"",
    "ram_label": "Up to 256 GB RAM; configuration-dependent"
@@ -1125,7 +1125,7 @@
    "usd_hr": 7.4,
    "kind": "on-demand",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA B300 288 28 240 $7.40 Reservation Pricing GPU Model Starting from&nbsp; Reserve <div class=\"",
    "ram_label": "Up to 240 GB RAM; configuration-dependent"
@@ -1137,7 +1137,7 @@
    "usd_hr": 2.79,
    "kind": "reserved",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA H200 SXM &nbsp;$2.79 Reserve here <div class=\"",
    "commitment": {
@@ -1153,7 +1153,7 @@
    "usd_hr": 2.72,
    "kind": "reserved",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA H100 SXM &nbsp;$2.72 Reserve here <div class=\"",
    "commitment": {
@@ -1169,7 +1169,7 @@
    "usd_hr": 1.75,
    "kind": "reserved",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA H100 &nbsp;$1.75 Reserve here <div class=\"",
    "commitment": {
@@ -1185,7 +1185,7 @@
    "usd_hr": 1.36,
    "kind": "reserved",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA A100 SXM $1.36 Reserve here <div class=\"",
    "commitment": {
@@ -1201,7 +1201,7 @@
    "usd_hr": 1.3,
    "kind": "reserved",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA RTX Pro 6000 SE $1.30 Reserve here <div class=\"",
    "commitment": {
@@ -1217,7 +1217,7 @@
    "usd_hr": 0.95,
    "kind": "reserved",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA A100 &nbsp;$0.95 Reserve here <div class=\"",
    "commitment": {
@@ -1233,7 +1233,7 @@
    "usd_hr": 0.7,
    "kind": "reserved",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA L40 $0.70 Reserve here <div class=\"",
    "commitment": {
@@ -1249,7 +1249,7 @@
    "usd_hr": 0.35,
    "kind": "reserved",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA A6000 $0.35 Reserve here <div class=\"",
    "commitment": {
@@ -1265,7 +1265,7 @@
    "usd_hr": 0.11,
    "kind": "reserved",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA A4000 $0.11 Reserve here <div class=\"",
    "commitment": {
@@ -1281,7 +1281,7 @@
    "usd_hr": 5.1,
    "kind": "reserved",
    "source_url": "https://www.hyperstack.cloud/gpu-pricing",
-   "fetched_at": "2026-10-03T05:20:03.374Z",
+   "fetched_at": "2026-10-03T06:19:59.183Z",
    "availability": "not-reported",
    "source_quote": "\"> NVIDIA B200 $5.10 Reserve here Spot VM Pricing Learn More GPU Model Spot VM <div class=\"",
    "commitment": {
@@ -1297,7 +1297,7 @@
    "usd_hr": 8.6,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.910Z",
+   "fetched_at": "2026-10-03T06:19:58.886Z",
    "min_gpus": 8
   },
   {
@@ -1307,7 +1307,7 @@
    "usd_hr": 2.5,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.910Z",
+   "fetched_at": "2026-10-03T06:19:58.886Z",
    "min_gpus": 8
   },
   {
@@ -1317,7 +1317,7 @@
    "usd_hr": 6.5,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.910Z",
+   "fetched_at": "2026-10-03T06:19:58.886Z",
    "min_gpus": 1
   },
   {
@@ -1327,7 +1327,7 @@
    "usd_hr": 6.155,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.910Z",
+   "fetched_at": "2026-10-03T06:19:58.886Z",
    "min_gpus": 8
   },
   {
@@ -1337,7 +1337,7 @@
    "usd_hr": 1.25,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.910Z",
+   "fetched_at": "2026-10-03T06:19:58.886Z",
    "min_gpus": 8
   },
   {
@@ -1347,7 +1347,7 @@
    "usd_hr": 6.305,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.910Z",
+   "fetched_at": "2026-10-03T06:19:58.886Z",
    "min_gpus": 8
   },
   {
@@ -1357,7 +1357,7 @@
    "usd_hr": 2.25,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.910Z",
+   "fetched_at": "2026-10-03T06:19:58.886Z",
    "min_gpus": 8
   },
   {
@@ -1367,7 +1367,7 @@
    "usd_hr": 2.7,
    "kind": "on-demand",
    "source_url": "https://www.coreweave.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.910Z",
+   "fetched_at": "2026-10-03T06:19:58.886Z",
    "min_gpus": 8
   },
   {
@@ -1377,7 +1377,7 @@
    "usd_hr": 9.5,
    "kind": "on-demand",
    "source_url": "https://docs.nebius.com/compute/resources/pricing",
-   "fetched_at": "2026-10-03T05:20:03.310Z"
+   "fetched_at": "2026-10-03T06:19:58.834Z"
   },
   {
    "provider": "nebius",
@@ -1386,7 +1386,7 @@
    "usd_hr": 8.5,
    "kind": "on-demand",
    "source_url": "https://docs.nebius.com/compute/resources/pricing",
-   "fetched_at": "2026-10-03T05:20:03.310Z"
+   "fetched_at": "2026-10-03T06:19:58.834Z"
   },
   {
    "provider": "nebius",
@@ -1395,7 +1395,7 @@
    "usd_hr": 5.4,
    "kind": "on-demand",
    "source_url": "https://docs.nebius.com/compute/resources/pricing",
-   "fetched_at": "2026-10-03T05:20:03.310Z"
+   "fetched_at": "2026-10-03T06:19:58.834Z"
   },
   {
    "provider": "nebius",
@@ -1404,7 +1404,7 @@
    "usd_hr": 4.5,
    "kind": "on-demand",
    "source_url": "https://docs.nebius.com/compute/resources/pricing",
-   "fetched_at": "2026-10-03T05:20:03.310Z"
+   "fetched_at": "2026-10-03T06:19:58.834Z"
   },
   {
    "provider": "nebius",
@@ -1413,7 +1413,7 @@
    "usd_hr": 1.8,
    "kind": "on-demand",
    "source_url": "https://docs.nebius.com/compute/resources/pricing",
-   "fetched_at": "2026-10-03T05:20:03.310Z"
+   "fetched_at": "2026-10-03T06:19:58.834Z"
   },
   {
    "provider": "nebius",
@@ -1422,7 +1422,7 @@
    "usd_hr": 1.35,
    "kind": "on-demand",
    "source_url": "https://docs.nebius.com/compute/resources/pricing",
-   "fetched_at": "2026-10-03T05:20:03.310Z"
+   "fetched_at": "2026-10-03T06:19:58.834Z"
   },
   {
    "provider": "datacrunch",
@@ -1431,7 +1431,7 @@
    "usd_hr": 10.11,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.808Z",
+   "fetched_at": "2026-10-03T06:20:01.021Z",
    "min_gpus": 1
   },
   {
@@ -1441,7 +1441,7 @@
    "usd_hr": 8.795,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.808Z",
+   "fetched_at": "2026-10-03T06:20:01.021Z",
    "min_gpus": 1
   },
   {
@@ -1451,7 +1451,7 @@
    "usd_hr": 7.057,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.808Z",
+   "fetched_at": "2026-10-03T06:20:01.021Z",
    "min_gpus": 1
   },
   {
@@ -1461,7 +1461,7 @@
    "usd_hr": 4.827,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.808Z",
+   "fetched_at": "2026-10-03T06:20:01.021Z",
    "min_gpus": 1
   },
   {
@@ -1471,7 +1471,7 @@
    "usd_hr": 3.7,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.808Z",
+   "fetched_at": "2026-10-03T06:20:01.021Z",
    "min_gpus": 1
   },
   {
@@ -1481,7 +1481,7 @@
    "usd_hr": 1.797,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.808Z",
+   "fetched_at": "2026-10-03T06:20:01.021Z",
    "min_gpus": 1
   },
   {
@@ -1491,7 +1491,7 @@
    "usd_hr": 1.307,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.808Z",
+   "fetched_at": "2026-10-03T06:20:01.021Z",
    "min_gpus": 1
   },
   {
@@ -1501,7 +1501,7 @@
    "usd_hr": 0.194,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.808Z",
+   "fetched_at": "2026-10-03T06:20:01.021Z",
    "min_gpus": 1
   },
   {
@@ -1511,7 +1511,7 @@
    "usd_hr": 2.044,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.808Z",
+   "fetched_at": "2026-10-03T06:20:01.021Z",
    "min_gpus": 1
   },
   {
@@ -1521,7 +1521,7 @@
    "usd_hr": 1.558,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.808Z",
+   "fetched_at": "2026-10-03T06:20:01.021Z",
    "min_gpus": 1
   },
   {
@@ -1531,7 +1531,7 @@
    "usd_hr": 1.184,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.808Z",
+   "fetched_at": "2026-10-03T06:20:01.021Z",
    "min_gpus": 1
   },
   {
@@ -1541,7 +1541,7 @@
    "usd_hr": 0.666,
    "kind": "on-demand",
    "source_url": "https://datacrunch.io/pricing",
-   "fetched_at": "2026-10-03T05:20:03.808Z",
+   "fetched_at": "2026-10-03T06:20:01.021Z",
    "min_gpus": 1
   },
   {
@@ -1551,7 +1551,7 @@
    "usd_hr": 1.99,
    "kind": "on-demand",
    "source_url": "https://support.voltagepark.com/article/example-deploying-gpt-oss-on-voltage-park",
-   "fetched_at": "2026-10-03T05:20:03.293Z"
+   "fetched_at": "2026-10-03T06:20:00.980Z"
   },
   {
    "provider": "crusoe",
@@ -1560,7 +1560,7 @@
    "usd_hr": 4.29,
    "kind": "on-demand",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "fetched_at": "2026-10-03T05:20:03.201Z"
+   "fetched_at": "2026-10-03T06:20:00.238Z"
   },
   {
    "provider": "crusoe",
@@ -1569,7 +1569,7 @@
    "usd_hr": 3.9,
    "kind": "on-demand",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "fetched_at": "2026-10-03T05:20:03.201Z"
+   "fetched_at": "2026-10-03T06:20:00.238Z"
   },
   {
    "provider": "crusoe",
@@ -1578,7 +1578,7 @@
    "usd_hr": 2.3,
    "kind": "on-demand",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "fetched_at": "2026-10-03T05:20:03.201Z"
+   "fetched_at": "2026-10-03T06:20:00.238Z"
   },
   {
    "provider": "crusoe",
@@ -1587,7 +1587,7 @@
    "usd_hr": 2,
    "kind": "on-demand",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "fetched_at": "2026-10-03T05:20:03.201Z"
+   "fetched_at": "2026-10-03T06:20:00.238Z"
   },
   {
    "provider": "crusoe",
@@ -1596,7 +1596,7 @@
    "usd_hr": 1.5,
    "kind": "on-demand",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "fetched_at": "2026-10-03T05:20:03.201Z"
+   "fetched_at": "2026-10-03T06:20:00.238Z"
   },
   {
    "provider": "crusoe",
@@ -1605,7 +1605,7 @@
    "usd_hr": 3.45,
    "kind": "on-demand",
    "source_url": "https://www.crusoe.ai/cloud/pricing",
-   "fetched_at": "2026-10-03T05:20:03.201Z"
+   "fetched_at": "2026-10-03T06:20:00.238Z"
   },
   {
    "provider": "jarvislabs",
@@ -1614,7 +1614,7 @@
    "usd_hr": 3.99,
    "kind": "on-demand",
    "source_url": "https://jarvislabs.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.294Z"
+   "fetched_at": "2026-10-03T06:20:00.322Z"
   },
   {
    "provider": "jarvislabs",
@@ -1623,7 +1623,7 @@
    "usd_hr": 2.69,
    "kind": "on-demand",
    "source_url": "https://jarvislabs.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.294Z"
+   "fetched_at": "2026-10-03T06:20:00.322Z"
   },
   {
    "provider": "jarvislabs",
@@ -1632,7 +1632,7 @@
    "usd_hr": 1.89,
    "kind": "on-demand",
    "source_url": "https://jarvislabs.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.294Z"
+   "fetched_at": "2026-10-03T06:20:00.322Z"
   },
   {
    "provider": "jarvislabs",
@@ -1641,7 +1641,7 @@
    "usd_hr": 1.49,
    "kind": "on-demand",
    "source_url": "https://jarvislabs.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.294Z"
+   "fetched_at": "2026-10-03T06:20:00.322Z"
   },
   {
    "provider": "jarvislabs",
@@ -1650,7 +1650,7 @@
    "usd_hr": 0.89,
    "kind": "on-demand",
    "source_url": "https://jarvislabs.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.294Z"
+   "fetched_at": "2026-10-03T06:20:00.322Z"
   },
   {
    "provider": "jarvislabs",
@@ -1659,7 +1659,7 @@
    "usd_hr": 0.44,
    "kind": "on-demand",
    "source_url": "https://jarvislabs.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.294Z"
+   "fetched_at": "2026-10-03T06:20:00.322Z"
   },
   {
    "provider": "ovh",
@@ -1668,7 +1668,7 @@
    "usd_hr": 0.77,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-03T05:20:03.182Z",
+   "fetched_at": "2026-10-03T06:20:00.130Z",
    "min_gpus": 1
   },
   {
@@ -1678,7 +1678,7 @@
    "usd_hr": 1,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-03T05:20:03.182Z",
+   "fetched_at": "2026-10-03T06:20:00.130Z",
    "min_gpus": 1
   },
   {
@@ -1688,7 +1688,7 @@
    "usd_hr": 3.07,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-03T05:20:03.182Z",
+   "fetched_at": "2026-10-03T06:20:00.130Z",
    "min_gpus": 1
   },
   {
@@ -1698,7 +1698,7 @@
    "usd_hr": 2.99,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-03T05:20:03.182Z",
+   "fetched_at": "2026-10-03T06:20:00.130Z",
    "min_gpus": 1
   },
   {
@@ -1708,7 +1708,7 @@
    "usd_hr": 1,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-03T05:20:03.182Z",
+   "fetched_at": "2026-10-03T06:20:00.130Z",
    "min_gpus": 1
   },
   {
@@ -1718,7 +1718,7 @@
    "usd_hr": 1.8,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-03T05:20:03.182Z",
+   "fetched_at": "2026-10-03T06:20:00.130Z",
    "min_gpus": 1
   },
   {
@@ -1728,7 +1728,7 @@
    "usd_hr": 0.6,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-03T05:20:03.182Z",
+   "fetched_at": "2026-10-03T06:20:00.130Z",
    "min_gpus": 1
   },
   {
@@ -1738,7 +1738,7 @@
    "usd_hr": 6.195,
    "kind": "on-demand",
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/",
-   "fetched_at": "2026-10-03T05:20:03.182Z",
+   "fetched_at": "2026-10-03T06:20:00.130Z",
    "min_gpus": 8
   },
   {
@@ -1748,7 +1748,7 @@
    "usd_hr": 10.72,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1757,16 +1757,16 @@
    "usd_hr": 5.57,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
    "gpu": "h100",
    "vram_gb": 80,
-   "usd_hr": 2.98,
+   "usd_hr": 3.24,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1775,7 +1775,7 @@
    "usd_hr": 2.2,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1784,7 +1784,7 @@
    "usd_hr": 8.72,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1793,7 +1793,7 @@
    "usd_hr": 4.53,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1802,7 +1802,7 @@
    "usd_hr": 4.79,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1811,7 +1811,7 @@
    "usd_hr": 3.05,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1820,7 +1820,7 @@
    "usd_hr": 3.59,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1829,7 +1829,7 @@
    "usd_hr": 3.02,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1838,16 +1838,7 @@
    "usd_hr": 1.43,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
-  },
-  {
-   "provider": "spheron",
-   "gpu": "a100",
-   "vram_gb": 80,
-   "usd_hr": 1.19,
-   "kind": "spot",
-   "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1856,7 +1847,7 @@
    "usd_hr": 2.3,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1865,7 +1856,7 @@
    "usd_hr": 1.29,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1874,7 +1865,7 @@
    "usd_hr": 0.78,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1883,16 +1874,7 @@
    "usd_hr": 0.78,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
-  },
-  {
-   "provider": "spheron",
-   "gpu": "rtx-6000-ada",
-   "vram_gb": 48,
-   "usd_hr": 0.81,
-   "kind": "spot",
-   "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1901,7 +1883,7 @@
    "usd_hr": 0.96,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1910,7 +1892,7 @@
    "usd_hr": 0.98,
    "kind": "spot",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "spheron",
@@ -1919,7 +1901,7 @@
    "usd_hr": 0.48,
    "kind": "on-demand",
    "source_url": "https://www.spheron.network/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.243Z"
+   "fetched_at": "2026-10-03T06:19:59.886Z"
   },
   {
    "provider": "azure",
@@ -1928,7 +1910,7 @@
    "usd_hr": 12.29,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 8,
    "gpu_count_reported": true,
    "instance": "Standard_ND96isr_H100_v5",
@@ -1943,7 +1925,7 @@
    "usd_hr": 0.738058625,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 8,
    "gpu_count_reported": true,
    "instance": "Standard_ND96asr_v4",
@@ -1958,7 +1940,7 @@
    "usd_hr": 0.67877,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 1,
    "gpu_count_reported": true,
    "instance": "Standard_NC24ads_A100_v4",
@@ -1973,7 +1955,7 @@
    "usd_hr": 11.061,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 8,
    "gpu_count_reported": true,
    "instance": "Standard_ND96is_H100_v5",
@@ -1988,7 +1970,7 @@
    "usd_hr": 1.289904,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 1,
    "gpu_count_reported": true,
    "instance": "Standard_NC40ads_H100_v5",
@@ -2003,7 +1985,7 @@
    "usd_hr": 3.399625,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 8,
    "gpu_count_reported": true,
    "instance": "Standard_ND96asr_A100_v4",
@@ -2018,7 +2000,7 @@
    "usd_hr": 4.09625,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 8,
    "gpu_count_reported": true,
    "instance": "Standard_ND96ams_A100_v4",
@@ -2033,7 +2015,7 @@
    "usd_hr": 0.6787705,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 4,
    "gpu_count_reported": true,
    "instance": "Standard_NC96ads_A100_v4",
@@ -2048,7 +2030,7 @@
    "usd_hr": 3.673,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 2,
    "gpu_count_reported": true,
    "instance": "Standard_NC48ads_A100_v4",
@@ -2063,7 +2045,7 @@
    "usd_hr": 6.98,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 1,
    "gpu_count_reported": true,
    "instance": "Standard_NC40ads_H100_v5",
@@ -2078,7 +2060,7 @@
    "usd_hr": 1.055194,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 8,
    "gpu_count_reported": true,
    "instance": "Standard_ND96amsr_A100_v4",
@@ -2093,7 +2075,7 @@
    "usd_hr": 1.289904,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 2,
    "gpu_count_reported": true,
    "instance": "Standard_NC80adis_H100_v5",
@@ -2108,7 +2090,7 @@
    "usd_hr": 3.399625,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 8,
    "gpu_count_reported": true,
    "instance": "Standard_ND96asr_v4",
@@ -2123,7 +2105,7 @@
    "usd_hr": 3.673,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 1,
    "gpu_count_reported": true,
    "instance": "Standard_NC24ads_A100_v4",
@@ -2138,7 +2120,7 @@
    "usd_hr": 2.271192,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 8,
    "gpu_count_reported": true,
    "instance": "Standard_ND96isr_H100_v5",
@@ -2153,7 +2135,7 @@
    "usd_hr": 4.09625,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 8,
    "gpu_count_reported": true,
    "instance": "Standard_ND96amsr_A100_v4",
@@ -2168,7 +2150,7 @@
    "usd_hr": 3.673,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 4,
    "gpu_count_reported": true,
    "instance": "Standard_NC96ads_A100_v4",
@@ -2183,7 +2165,7 @@
    "usd_hr": 2.04407275,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 8,
    "gpu_count_reported": true,
    "instance": "Standard_ND96is_H100_v5",
@@ -2198,7 +2180,7 @@
    "usd_hr": 0.6787705,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 2,
    "gpu_count_reported": true,
    "instance": "Standard_NC48ads_A100_v4",
@@ -2213,7 +2195,7 @@
    "usd_hr": 1.055194,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 8,
    "gpu_count_reported": true,
    "instance": "Standard_ND96ams_A100_v4",
@@ -2228,7 +2210,7 @@
    "usd_hr": 6.98,
    "kind": "on-demand",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 2,
    "gpu_count_reported": true,
    "instance": "Standard_NC80adis_H100_v5",
@@ -2243,7 +2225,7 @@
    "usd_hr": 0.7479175,
    "kind": "spot",
    "source_url": "https://prices.azure.com/api/retail/prices",
-   "fetched_at": "2026-10-03T05:20:03.277Z",
+   "fetched_at": "2026-10-03T06:19:59.744Z",
    "min_gpus": 8,
    "gpu_count_reported": true,
    "instance": "Standard_ND96asr_A100_v4",
@@ -2267,7 +2249,7 @@
    "region": "us-east-1",
    "availability": "not-reported",
    "source_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20(N.%20Virginia)/Linux/index.json",
-   "fetched_at": "2026-10-03T05:20:02.841Z",
+   "fetched_at": "2026-10-03T06:19:59.589Z",
    "source_quote": "{\"rateCode\":\"M9EE3CA99HPWQJDG.JRTCKXETXF.6YS6EN2CT7\",\"price\":\"30.1311800000\",\"Location\":\"US East (N. Virginia)\",\"Instance Family\":\"GPU instance\",\"vCPU\":\"192\",\"Instance Type\":\"g6e.48xlarge\",\"Memory\":\"1536 GiB\",\"Storage\":\"4 x 1900 GB NVMe SSD\",\"Network Performance\":\"400 Gigabit\",\"plc:OperatingSystem\":\"Linux\",\"plc:InstanceFamily\":\"Accelerated Computing\",\"Operating System\":\"Linux\",\"Pre Installed S/W\":\"NA\",\"License Model\":\"No License required\"}"
   },
   {
@@ -2286,7 +2268,7 @@
    "region": "us-east-1",
    "availability": "not-reported",
    "source_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20(N.%20Virginia)/Linux/index.json",
-   "fetched_at": "2026-10-03T05:20:02.841Z",
+   "fetched_at": "2026-10-03T06:19:59.589Z",
    "source_quote": "{\"rateCode\":\"9YGSXBKY3DFY79G8.JRTCKXETXF.6YS6EN2CT7\",\"price\":\"27.4470500000\",\"Location\":\"US East (N. Virginia)\",\"Instance Family\":\"GPU instance\",\"vCPU\":\"96\",\"Instance Type\":\"p4de.24xlarge\",\"Memory\":\"1152 GiB\",\"Storage\":\"8 x 1000 SSD\",\"Network Performance\":\"400 Gigabit\",\"plc:OperatingSystem\":\"Linux\",\"plc:InstanceFamily\":\"Accelerated Computing\",\"Operating System\":\"Linux\",\"Pre Installed S/W\":\"NA\",\"License Model\":\"No License required\"}"
   },
   {
@@ -2305,7 +2287,7 @@
    "region": "us-east-1",
    "availability": "not-reported",
    "source_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20(N.%20Virginia)/Linux/index.json",
-   "fetched_at": "2026-10-03T05:20:02.841Z",
+   "fetched_at": "2026-10-03T06:19:59.589Z",
    "source_quote": "{\"rateCode\":\"3D4V8UAYEMB38GU2.JRTCKXETXF.6YS6EN2CT7\",\"price\":\"55.0400000000\",\"Location\":\"US East (N. Virginia)\",\"Instance Family\":\"GPU instance\",\"vCPU\":\"192\",\"Instance Type\":\"p5.48xlarge\",\"Memory\":\"2048 GiB\",\"Storage\":\"8 x 3840 GB SSD\",\"Network Performance\":\"3200 Gigabit\",\"plc:OperatingSystem\":\"Linux\",\"plc:InstanceFamily\":\"Accelerated Computing\",\"Operating System\":\"Linux\",\"Pre Installed S/W\":\"NA\",\"License Model\":\"No License required\"}"
   },
   {
@@ -2324,7 +2306,7 @@
    "region": "us-east-1",
    "availability": "not-reported",
    "source_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20(N.%20Virginia)/Linux/index.json",
-   "fetched_at": "2026-10-03T05:20:02.841Z",
+   "fetched_at": "2026-10-03T06:19:59.589Z",
    "source_quote": "{\"rateCode\":\"TPKUC6XYSUQ3VFK2.JRTCKXETXF.6YS6EN2CT7\",\"price\":\"0.8048000000\",\"Location\":\"US East (N. Virginia)\",\"Instance Family\":\"GPU instance\",\"vCPU\":\"4\",\"Instance Type\":\"g6.xlarge\",\"Memory\":\"16 GiB\",\"Storage\":\"1 x 250 GB NVMe SSD\",\"Network Performance\":\"Up to 10 Gigabit\",\"plc:OperatingSystem\":\"Linux\",\"plc:InstanceFamily\":\"Accelerated Computing\",\"Operating System\":\"Linux\",\"Pre Installed S/W\":\"NA\",\"License Model\":\"No License required\"}"
   },
   {
@@ -2343,7 +2325,7 @@
    "region": "us-east-1",
    "availability": "not-reported",
    "source_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20(N.%20Virginia)/Linux/index.json",
-   "fetched_at": "2026-10-03T05:20:02.841Z",
+   "fetched_at": "2026-10-03T06:19:59.589Z",
    "source_quote": "{\"rateCode\":\"XMKUY5HX43BTVY62.JRTCKXETXF.6YS6EN2CT7\",\"price\":\"63.2960000000\",\"Location\":\"US East (N. Virginia)\",\"Instance Family\":\"GPU instance\",\"vCPU\":\"192\",\"Instance Type\":\"p5en.48xlarge\",\"Memory\":\"2048 GiB\",\"Storage\":\"8 x 3840 NVMe SSD\",\"Network Performance\":\"3200 Gigabit\",\"plc:OperatingSystem\":\"Linux\",\"plc:InstanceFamily\":\"Accelerated Computing\",\"Operating System\":\"Linux\",\"Pre Installed S/W\":\"NA\",\"License Model\":\"No License required\"}"
   },
   {
@@ -2362,7 +2344,7 @@
    "region": "us-east-1",
    "availability": "not-reported",
    "source_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20(N.%20Virginia)/Linux/index.json",
-   "fetched_at": "2026-10-03T05:20:02.841Z",
+   "fetched_at": "2026-10-03T06:19:59.589Z",
    "source_quote": "{\"rateCode\":\"H7NGEAC6UEHNTKSJ.JRTCKXETXF.6YS6EN2CT7\",\"price\":\"21.9576420000\",\"Location\":\"US East (N. Virginia)\",\"Instance Family\":\"GPU instance\",\"vCPU\":\"96\",\"Instance Type\":\"p4d.24xlarge\",\"Memory\":\"1152 GiB\",\"Storage\":\"8 x 1000 SSD\",\"Network Performance\":\"400 Gigabit\",\"plc:OperatingSystem\":\"Linux\",\"plc:InstanceFamily\":\"Accelerated Computing\",\"Operating System\":\"Linux\",\"Pre Installed S/W\":\"NA\",\"License Model\":\"No License required\"}"
   },
   {
@@ -2381,7 +2363,7 @@
    "region": "us-east-1",
    "availability": "not-reported",
    "source_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20(N.%20Virginia)/Linux/index.json",
-   "fetched_at": "2026-10-03T05:20:02.841Z",
+   "fetched_at": "2026-10-03T06:19:59.589Z",
    "source_quote": "{\"rateCode\":\"HEU7PA78QPB8SDYY.JRTCKXETXF.6YS6EN2CT7\",\"price\":\"1.8610000000\",\"Location\":\"US East (N. Virginia)\",\"Instance Family\":\"GPU instance\",\"vCPU\":\"4\",\"Instance Type\":\"g6e.xlarge\",\"Memory\":\"32 GiB\",\"Storage\":\"1 x 250 GB NVMe SSD\",\"Network Performance\":\"Up to 20 Gigabit\",\"plc:OperatingSystem\":\"Linux\",\"plc:InstanceFamily\":\"Accelerated Computing\",\"Operating System\":\"Linux\",\"Pre Installed S/W\":\"NA\",\"License Model\":\"No License required\"}"
   },
   {
@@ -2400,7 +2382,7 @@
    "region": "us-east-1",
    "availability": "not-reported",
    "source_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20(N.%20Virginia)/Linux/index.json",
-   "fetched_at": "2026-10-03T05:20:02.841Z",
+   "fetched_at": "2026-10-03T06:19:59.589Z",
    "source_quote": "{\"rateCode\":\"QFBFRS7GP2ZMEFXD.JRTCKXETXF.6YS6EN2CT7\",\"price\":\"13.3504000000\",\"Location\":\"US East (N. Virginia)\",\"Instance Family\":\"GPU instance\",\"vCPU\":\"192\",\"Instance Type\":\"g6.48xlarge\",\"Memory\":\"768 GiB\",\"Storage\":\"8 x 940 NVMe SSD\",\"Network Performance\":\"100 Gigabit\",\"plc:OperatingSystem\":\"Linux\",\"plc:InstanceFamily\":\"Accelerated Computing\",\"Operating System\":\"Linux\",\"Pre Installed S/W\":\"NA\",\"License Model\":\"No License required\"}"
   },
   {
@@ -2419,7 +2401,7 @@
    "region": "us-east-1",
    "availability": "not-reported",
    "source_url": "https://website.spot.ec2.aws.a2z.com/spot.js",
-   "fetched_at": "2026-10-03T05:20:02.841Z",
+   "fetched_at": "2026-10-03T06:19:59.589Z",
    "source_quote": "{\"size\":\"p4d.24xlarge\",\"valueColumns\":[{\"name\":\"linux\",\"prices\":{\"USD\":\"13.0667\"}},{\"name\":\"mswin\",\"prices\":{\"USD\":\"N/A*\"}}]}"
   },
   {
@@ -2438,7 +2420,7 @@
    "region": "us-east-1",
    "availability": "not-reported",
    "source_url": "https://website.spot.ec2.aws.a2z.com/spot.js",
-   "fetched_at": "2026-10-03T05:20:02.841Z",
+   "fetched_at": "2026-10-03T06:19:59.589Z",
    "source_quote": "{\"size\":\"p5.48xlarge\",\"valueColumns\":[{\"name\":\"linux\",\"prices\":{\"USD\":\"57.7618\"}},{\"name\":\"mswin\",\"prices\":{\"USD\":\"N/A*\"}}]}"
   },
   {
@@ -2457,7 +2439,7 @@
    "region": "us-east-1",
    "availability": "not-reported",
    "source_url": "https://website.spot.ec2.aws.a2z.com/spot.js",
-   "fetched_at": "2026-10-03T05:20:02.841Z",
+   "fetched_at": "2026-10-03T06:19:59.589Z",
    "source_quote": "{\"size\":\"g6.xlarge\",\"valueColumns\":[{\"name\":\"linux\",\"prices\":{\"USD\":\"0.105\"}},{\"name\":\"mswin\",\"prices\":{\"USD\":\"0.2686\"}}]}"
   },
   {
@@ -2476,7 +2458,7 @@
    "region": "us-east-1",
    "availability": "not-reported",
    "source_url": "https://website.spot.ec2.aws.a2z.com/spot.js",
-   "fetched_at": "2026-10-03T05:20:02.841Z",
+   "fetched_at": "2026-10-03T06:19:59.589Z",
    "source_quote": "{\"size\":\"g6.48xlarge\",\"valueColumns\":[{\"name\":\"linux\",\"prices\":{\"USD\":\"1.7596\"}},{\"name\":\"mswin\",\"prices\":{\"USD\":\"10.2104\"}}]}"
   },
   {
@@ -2486,7 +2468,7 @@
    "usd_hr": 1.99,
    "kind": "spot",
    "source_url": "https://www.together.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.346Z"
+   "fetched_at": "2026-10-03T06:19:59.435Z"
   },
   {
    "provider": "together",
@@ -2495,7 +2477,7 @@
    "usd_hr": 3.99,
    "kind": "on-demand",
    "source_url": "https://www.together.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.346Z"
+   "fetched_at": "2026-10-03T06:19:59.435Z"
   },
   {
    "provider": "together",
@@ -2504,7 +2486,7 @@
    "usd_hr": 2.99,
    "kind": "spot",
    "source_url": "https://www.together.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.346Z"
+   "fetched_at": "2026-10-03T06:19:59.435Z"
   },
   {
    "provider": "together",
@@ -2513,7 +2495,7 @@
    "usd_hr": 5.99,
    "kind": "on-demand",
    "source_url": "https://www.together.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.346Z"
+   "fetched_at": "2026-10-03T06:19:59.435Z"
   },
   {
    "provider": "together",
@@ -2522,7 +2504,7 @@
    "usd_hr": 4.09,
    "kind": "spot",
    "source_url": "https://www.together.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.346Z"
+   "fetched_at": "2026-10-03T06:19:59.435Z"
   },
   {
    "provider": "together",
@@ -2531,7 +2513,7 @@
    "usd_hr": 8.19,
    "kind": "on-demand",
    "source_url": "https://www.together.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.346Z"
+   "fetched_at": "2026-10-03T06:19:59.435Z"
   },
   {
    "provider": "together",
@@ -2540,7 +2522,7 @@
    "usd_hr": 4.99,
    "kind": "spot",
    "source_url": "https://www.together.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.346Z"
+   "fetched_at": "2026-10-03T06:19:59.435Z"
   },
   {
    "provider": "together",
@@ -2549,7 +2531,7 @@
    "usd_hr": 9.99,
    "kind": "on-demand",
    "source_url": "https://www.together.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.346Z"
+   "fetched_at": "2026-10-03T06:19:59.435Z"
   },
   {
    "provider": "fal",
@@ -2558,7 +2540,7 @@
    "usd_hr": 12.99,
    "kind": "serverless",
    "source_url": "https://fal.ai/pricing",
-   "fetched_at": "2026-10-03T05:00:03.093Z"
+   "fetched_at": "2026-10-03T06:16:37.053Z"
   },
   {
    "provider": "fal",
@@ -2567,7 +2549,7 @@
    "usd_hr": 9.99,
    "kind": "serverless",
    "source_url": "https://fal.ai/pricing",
-   "fetched_at": "2026-10-03T05:00:03.093Z"
+   "fetched_at": "2026-10-03T06:16:37.053Z"
   },
   {
    "provider": "fal",
@@ -2576,7 +2558,7 @@
    "usd_hr": 7.99,
    "kind": "serverless",
    "source_url": "https://fal.ai/pricing",
-   "fetched_at": "2026-10-03T05:00:03.093Z"
+   "fetched_at": "2026-10-03T06:16:37.053Z"
   },
   {
    "provider": "fal",
@@ -2585,7 +2567,7 @@
    "usd_hr": 6,
    "kind": "serverless",
    "source_url": "https://fal.ai/pricing",
-   "fetched_at": "2026-10-03T05:00:03.093Z"
+   "fetched_at": "2026-10-03T06:16:37.053Z"
   },
   {
    "provider": "fal",
@@ -2594,7 +2576,7 @@
    "usd_hr": 4.5,
    "kind": "serverless",
    "source_url": "https://fal.ai/pricing",
-   "fetched_at": "2026-10-03T05:00:03.093Z"
+   "fetched_at": "2026-10-03T06:16:37.053Z"
   },
   {
    "provider": "fal",
@@ -2603,7 +2585,7 @@
    "usd_hr": 4,
    "kind": "serverless",
    "source_url": "https://fal.ai/pricing",
-   "fetched_at": "2026-10-03T05:00:03.093Z"
+   "fetched_at": "2026-10-03T06:16:37.053Z"
   },
   {
    "provider": "modal",
@@ -2612,7 +2594,7 @@
    "usd_hr": 7.099199999999999,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.907Z"
+   "fetched_at": "2026-10-03T06:19:59.516Z"
   },
   {
    "provider": "modal",
@@ -2621,7 +2603,7 @@
    "usd_hr": 6.2496,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.907Z"
+   "fetched_at": "2026-10-03T06:19:59.516Z"
   },
   {
    "provider": "modal",
@@ -2630,7 +2612,7 @@
    "usd_hr": 4.5396,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.907Z"
+   "fetched_at": "2026-10-03T06:19:59.516Z"
   },
   {
    "provider": "modal",
@@ -2639,7 +2621,7 @@
    "usd_hr": 3.9492000000000003,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.907Z"
+   "fetched_at": "2026-10-03T06:19:59.516Z"
   },
   {
    "provider": "modal",
@@ -2648,7 +2630,7 @@
    "usd_hr": 3.0312,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.907Z"
+   "fetched_at": "2026-10-03T06:19:59.516Z"
   },
   {
    "provider": "modal",
@@ -2657,7 +2639,7 @@
    "usd_hr": 2.4983999999999997,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.907Z"
+   "fetched_at": "2026-10-03T06:19:59.516Z"
   },
   {
    "provider": "modal",
@@ -2666,7 +2648,7 @@
    "usd_hr": 2.0987999999999998,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.907Z"
+   "fetched_at": "2026-10-03T06:19:59.516Z"
   },
   {
    "provider": "modal",
@@ -2675,7 +2657,7 @@
    "usd_hr": 1.9511999999999998,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.907Z"
+   "fetched_at": "2026-10-03T06:19:59.516Z"
   },
   {
    "provider": "modal",
@@ -2684,7 +2666,7 @@
    "usd_hr": 1.1016000000000001,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.907Z"
+   "fetched_at": "2026-10-03T06:19:59.516Z"
   },
   {
    "provider": "modal",
@@ -2693,7 +2675,7 @@
    "usd_hr": 0.7992,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.907Z"
+   "fetched_at": "2026-10-03T06:19:59.516Z"
   },
   {
    "provider": "modal",
@@ -2702,7 +2684,7 @@
    "usd_hr": 0.5904,
    "kind": "serverless",
    "source_url": "https://modal.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.907Z"
+   "fetched_at": "2026-10-03T06:19:59.516Z"
   },
   {
    "provider": "vultr",
@@ -2711,7 +2693,7 @@
    "usd_hr": 1.671,
    "kind": "on-demand",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-03T05:20:15.377Z",
+   "fetched_at": "2026-10-03T06:20:00.302Z",
    "min_gpus": 1
   },
   {
@@ -2721,7 +2703,7 @@
    "usd_hr": 2.397,
    "kind": "on-demand",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-03T05:20:15.377Z",
+   "fetched_at": "2026-10-03T06:20:00.302Z",
    "min_gpus": 1
   },
   {
@@ -2731,7 +2713,7 @@
    "usd_hr": 1.712,
    "kind": "on-demand",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-03T05:20:15.377Z",
+   "fetched_at": "2026-10-03T06:20:00.302Z",
    "min_gpus": 1
   },
   {
@@ -2741,7 +2723,7 @@
    "usd_hr": 2.3,
    "kind": "spot",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-03T05:20:15.377Z",
+   "fetched_at": "2026-10-03T06:20:00.302Z",
    "min_gpus": 8
   },
   {
@@ -2751,7 +2733,7 @@
    "usd_hr": 3.2,
    "kind": "spot",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-03T05:20:15.377Z",
+   "fetched_at": "2026-10-03T06:20:00.302Z",
    "min_gpus": 8
   },
   {
@@ -2761,7 +2743,7 @@
    "usd_hr": 2.59,
    "kind": "spot",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-03T05:20:15.377Z",
+   "fetched_at": "2026-10-03T06:20:00.302Z",
    "min_gpus": 8
   },
   {
@@ -2771,7 +2753,7 @@
    "usd_hr": 2,
    "kind": "spot",
    "source_url": "https://api.vultr.com/v2/plans?type=all&per_page=500",
-   "fetched_at": "2026-10-03T05:20:15.377Z",
+   "fetched_at": "2026-10-03T06:20:00.302Z",
    "min_gpus": 8
   },
   {
@@ -2781,7 +2763,7 @@
    "usd_hr": 2.19,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2791,7 +2773,7 @@
    "usd_hr": 3.62,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2801,7 +2783,7 @@
    "usd_hr": 0.92,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2811,7 +2793,7 @@
    "usd_hr": 2.73,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2821,7 +2803,7 @@
    "usd_hr": 2.92,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 2
   },
   {
@@ -2831,7 +2813,7 @@
    "usd_hr": 3.14,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2841,7 +2823,7 @@
    "usd_hr": 1.35,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2851,7 +2833,7 @@
    "usd_hr": 1.38,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2861,7 +2843,7 @@
    "usd_hr": 0.97,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2871,7 +2853,7 @@
    "usd_hr": 0.86,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2881,7 +2863,7 @@
    "usd_hr": 0.79,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2891,7 +2873,7 @@
    "usd_hr": 0.57,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2901,7 +2883,7 @@
    "usd_hr": 0.44,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2911,7 +2893,7 @@
    "usd_hr": 0.35,
    "kind": "on-demand",
    "source_url": "https://massedcompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.096Z",
+   "fetched_at": "2026-10-03T06:20:01.722Z",
    "min_gpus": 1
   },
   {
@@ -2921,7 +2903,7 @@
    "usd_hr": 2.25,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-03T05:20:02.833Z"
+   "fetched_at": "2026-10-03T06:19:58.973Z"
   },
   {
    "provider": "tensordock",
@@ -2930,7 +2912,7 @@
    "usd_hr": 1.8,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-03T05:20:02.833Z"
+   "fetched_at": "2026-10-03T06:19:58.973Z"
   },
   {
    "provider": "tensordock",
@@ -2939,7 +2921,7 @@
    "usd_hr": 1.5,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-03T05:20:02.833Z"
+   "fetched_at": "2026-10-03T06:19:58.973Z"
   },
   {
    "provider": "tensordock",
@@ -2948,7 +2930,7 @@
    "usd_hr": 0.17,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-03T05:20:02.833Z"
+   "fetched_at": "2026-10-03T06:19:58.973Z"
   },
   {
    "provider": "tensordock",
@@ -2957,7 +2939,7 @@
    "usd_hr": 0.95,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-03T05:20:02.833Z"
+   "fetched_at": "2026-10-03T06:19:58.973Z"
   },
   {
    "provider": "tensordock",
@@ -2966,7 +2948,7 @@
    "usd_hr": 0.35,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-03T05:20:02.833Z"
+   "fetched_at": "2026-10-03T06:19:58.973Z"
   },
   {
    "provider": "tensordock",
@@ -2975,7 +2957,7 @@
    "usd_hr": 0.2,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-03T05:20:02.833Z"
+   "fetched_at": "2026-10-03T06:19:58.973Z"
   },
   {
    "provider": "tensordock",
@@ -2984,7 +2966,7 @@
    "usd_hr": 0.75,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-03T05:20:02.833Z"
+   "fetched_at": "2026-10-03T06:19:58.973Z"
   },
   {
    "provider": "tensordock",
@@ -2993,7 +2975,7 @@
    "usd_hr": 0.45,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-03T05:20:02.833Z"
+   "fetched_at": "2026-10-03T06:19:58.973Z"
   },
   {
    "provider": "tensordock",
@@ -3002,7 +2984,7 @@
    "usd_hr": 0.1,
    "kind": "on-demand",
    "source_url": "https://www.tensordock.com/cloud-gpus.html",
-   "fetched_at": "2026-10-03T05:20:02.833Z"
+   "fetched_at": "2026-10-03T06:19:58.973Z"
   },
   {
    "provider": "tensordock",
@@ -3011,7 +2993,7 @@
    "usd_hr": 1.91,
    "kind": "spot",
    "source_url": "https://www.tensordock.com/gpu-h100.html",
-   "fetched_at": "2026-10-03T05:20:02.833Z"
+   "fetched_at": "2026-10-03T06:19:58.973Z"
   },
   {
    "provider": "salad",
@@ -3020,7 +3002,7 @@
    "usd_hr": 0.25,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "salad",
@@ -3029,7 +3011,7 @@
    "usd_hr": 0.16,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "salad",
@@ -3038,7 +3020,7 @@
    "usd_hr": 0.15,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "salad",
@@ -3047,7 +3029,7 @@
    "usd_hr": 0.1,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "salad",
@@ -3056,7 +3038,7 @@
    "usd_hr": 0.1,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "salad",
@@ -3065,7 +3047,7 @@
    "usd_hr": 0.09,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "salad",
@@ -3074,7 +3056,7 @@
    "usd_hr": 0.1,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "salad",
@@ -3083,7 +3065,7 @@
    "usd_hr": 0.09,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "salad",
@@ -3092,7 +3074,7 @@
    "usd_hr": 0.08,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "salad",
@@ -3101,7 +3083,7 @@
    "usd_hr": 0.07,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "salad",
@@ -3110,7 +3092,7 @@
    "usd_hr": 0.07,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "salad",
@@ -3119,7 +3101,7 @@
    "usd_hr": 0.08,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "salad",
@@ -3128,7 +3110,7 @@
    "usd_hr": 0.065,
    "kind": "community",
    "source_url": "https://salad.com/js/pricing.js",
-   "fetched_at": "2026-10-03T05:20:03.140Z"
+   "fetched_at": "2026-10-03T06:19:59.116Z"
   },
   {
    "provider": "replicate",
@@ -3137,7 +3119,7 @@
    "usd_hr": 5.04,
    "kind": "serverless",
    "source_url": "https://replicate.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.074Z"
+   "fetched_at": "2026-10-03T06:20:00.075Z"
   },
   {
    "provider": "replicate",
@@ -3146,7 +3128,7 @@
    "usd_hr": 5.49,
    "kind": "serverless",
    "source_url": "https://replicate.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.074Z"
+   "fetched_at": "2026-10-03T06:20:00.075Z"
   },
   {
    "provider": "replicate",
@@ -3155,7 +3137,7 @@
    "usd_hr": 3.51,
    "kind": "serverless",
    "source_url": "https://replicate.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.074Z"
+   "fetched_at": "2026-10-03T06:20:00.075Z"
   },
   {
    "provider": "replicate",
@@ -3164,7 +3146,7 @@
    "usd_hr": 0.81,
    "kind": "serverless",
    "source_url": "https://replicate.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.074Z"
+   "fetched_at": "2026-10-03T06:20:00.075Z"
   },
   {
    "provider": "replicate",
@@ -3173,7 +3155,7 @@
    "usd_hr": 5.49,
    "kind": "serverless",
    "source_url": "https://replicate.com/pricing",
-   "fetched_at": "2026-10-03T05:20:04.074Z"
+   "fetched_at": "2026-10-03T06:20:00.075Z"
   },
   {
    "provider": "fireworks",
@@ -3182,7 +3164,7 @@
    "usd_hr": 8,
    "kind": "serverless",
    "source_url": "https://fireworks.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.560Z"
+   "fetched_at": "2026-10-03T06:19:59.904Z"
   },
   {
    "provider": "fireworks",
@@ -3191,7 +3173,7 @@
    "usd_hr": 8,
    "kind": "serverless",
    "source_url": "https://fireworks.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.560Z"
+   "fetched_at": "2026-10-03T06:19:59.904Z"
   },
   {
    "provider": "fireworks",
@@ -3200,7 +3182,7 @@
    "usd_hr": 13,
    "kind": "serverless",
    "source_url": "https://fireworks.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.560Z"
+   "fetched_at": "2026-10-03T06:19:59.904Z"
   },
   {
    "provider": "fireworks",
@@ -3209,7 +3191,7 @@
    "usd_hr": 15,
    "kind": "serverless",
    "source_url": "https://fireworks.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.560Z"
+   "fetched_at": "2026-10-03T06:19:59.904Z"
   },
   {
    "provider": "fireworks",
@@ -3218,7 +3200,7 @@
    "usd_hr": 20,
    "kind": "serverless",
    "source_url": "https://fireworks.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.560Z"
+   "fetched_at": "2026-10-03T06:19:59.904Z"
   },
   {
    "provider": "baseten",
@@ -3227,7 +3209,7 @@
    "usd_hr": 0.6312,
    "kind": "serverless",
    "source_url": "https://www.baseten.co/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.601Z"
+   "fetched_at": "2026-10-03T06:19:59.726Z"
   },
   {
    "provider": "baseten",
@@ -3236,7 +3218,7 @@
    "usd_hr": 0.8484,
    "kind": "serverless",
    "source_url": "https://www.baseten.co/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.601Z"
+   "fetched_at": "2026-10-03T06:19:59.726Z"
   },
   {
    "provider": "baseten",
@@ -3245,7 +3227,7 @@
    "usd_hr": 1.2072,
    "kind": "serverless",
    "source_url": "https://www.baseten.co/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.601Z"
+   "fetched_at": "2026-10-03T06:19:59.726Z"
   },
   {
    "provider": "baseten",
@@ -3254,7 +3236,7 @@
    "usd_hr": 4,
    "kind": "serverless",
    "source_url": "https://www.baseten.co/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.601Z"
+   "fetched_at": "2026-10-03T06:19:59.726Z"
   },
   {
    "provider": "baseten",
@@ -3263,7 +3245,7 @@
    "usd_hr": 6.5,
    "kind": "serverless",
    "source_url": "https://www.baseten.co/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.601Z"
+   "fetched_at": "2026-10-03T06:19:59.726Z"
   },
   {
    "provider": "baseten",
@@ -3272,7 +3254,7 @@
    "usd_hr": 9.98,
    "kind": "serverless",
    "source_url": "https://www.baseten.co/pricing/",
-   "fetched_at": "2026-10-03T05:20:03.601Z"
+   "fetched_at": "2026-10-03T06:19:59.726Z"
   },
   {
    "provider": "digitalocean",
@@ -3281,7 +3263,7 @@
    "usd_hr": 4.41,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-h100x1-80gb",
@@ -3296,7 +3278,7 @@
    "usd_hr": 4.41,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-h100x8-640gb",
@@ -3312,7 +3294,7 @@
    "usd_hr": 4.47,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-h200x1-141gb",
@@ -3327,7 +3309,7 @@
    "usd_hr": 4.47,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-h200x8-1920gb",
@@ -3343,7 +3325,7 @@
    "usd_hr": 11.19,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-b300x1-288gb",
@@ -3358,7 +3340,7 @@
    "usd_hr": 11.19,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-b300x8-2304gb",
@@ -3374,7 +3356,7 @@
    "usd_hr": 1.57,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-rtx6000x1-48gb",
@@ -3389,7 +3371,7 @@
    "usd_hr": 1.57,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "NVIDIA L40S 1x",
@@ -3404,7 +3386,7 @@
    "usd_hr": 2.59,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-mi300x1-192gb",
@@ -3419,7 +3401,7 @@
    "usd_hr": 2.59,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-mi300x8-1536gb",
@@ -3435,7 +3417,7 @@
    "usd_hr": 3.8,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-mi325x1-256gb",
@@ -3450,7 +3432,7 @@
    "usd_hr": 3.8,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-mi325x8-2048gb",
@@ -3466,7 +3448,7 @@
    "usd_hr": 6.16,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-mi350x1-288gb",
@@ -3481,7 +3463,7 @@
    "usd_hr": 6.16,
    "kind": "on-demand",
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets",
-   "fetched_at": "2026-10-03T05:20:03.750Z",
+   "fetched_at": "2026-10-03T06:19:59.555Z",
    "availability": "not-reported",
    "gpu_count_reported": true,
    "instance": "gpu-mi350x8-2048gb",
@@ -3497,7 +3479,7 @@
    "usd_hr": 8,
    "kind": "on-demand",
    "source_url": "https://www.gmicloud.ai/en/pricing",
-   "fetched_at": "2026-10-03T05:20:03.647Z"
+   "fetched_at": "2026-10-03T06:19:59.525Z"
   },
   {
    "provider": "gmicloud",
@@ -3506,7 +3488,7 @@
    "usd_hr": 2,
    "kind": "on-demand",
    "source_url": "https://www.gmicloud.ai/en/pricing",
-   "fetched_at": "2026-10-03T05:20:03.647Z"
+   "fetched_at": "2026-10-03T06:19:59.525Z"
   },
   {
    "provider": "gmicloud",
@@ -3515,7 +3497,7 @@
    "usd_hr": 2.6,
    "kind": "on-demand",
    "source_url": "https://www.gmicloud.ai/en/pricing",
-   "fetched_at": "2026-10-03T05:20:03.647Z"
+   "fetched_at": "2026-10-03T06:19:59.525Z"
   },
   {
    "provider": "gmicloud",
@@ -3524,7 +3506,7 @@
    "usd_hr": 4,
    "kind": "on-demand",
    "source_url": "https://www.gmicloud.ai/en/pricing",
-   "fetched_at": "2026-10-03T05:20:03.647Z"
+   "fetched_at": "2026-10-03T06:19:59.525Z"
   },
   {
    "provider": "primeintellect",
@@ -3533,7 +3515,7 @@
    "usd_hr": 4.99,
    "kind": "on-demand",
    "source_url": "https://www.primeintellect.ai/",
-   "fetched_at": "2026-10-03T05:20:03.793Z"
+   "fetched_at": "2026-10-03T06:19:59.533Z"
   },
   {
    "provider": "primeintellect",
@@ -3542,7 +3524,7 @@
    "usd_hr": 3.49,
    "kind": "on-demand",
    "source_url": "https://www.primeintellect.ai/",
-   "fetched_at": "2026-10-03T05:20:03.793Z"
+   "fetched_at": "2026-10-03T06:19:59.533Z"
   },
   {
    "provider": "primeintellect",
@@ -3551,7 +3533,7 @@
    "usd_hr": 3.14,
    "kind": "on-demand",
    "source_url": "https://www.primeintellect.ai/",
-   "fetched_at": "2026-10-03T05:20:03.793Z"
+   "fetched_at": "2026-10-03T06:19:59.533Z"
   },
   {
    "provider": "primeintellect",
@@ -3560,7 +3542,7 @@
    "usd_hr": 2.43,
    "kind": "on-demand",
    "source_url": "https://www.primeintellect.ai/",
-   "fetched_at": "2026-10-03T05:20:03.793Z"
+   "fetched_at": "2026-10-03T06:19:59.533Z"
   },
   {
    "provider": "primeintellect",
@@ -3569,7 +3551,7 @@
    "usd_hr": 0.94,
    "kind": "spot",
    "source_url": "https://www.primeintellect.ai/",
-   "fetched_at": "2026-10-03T05:20:03.793Z"
+   "fetched_at": "2026-10-03T06:19:59.533Z"
   },
   {
    "provider": "cerebrium",
@@ -3578,7 +3560,7 @@
    "usd_hr": 0.5904,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.785Z"
+   "fetched_at": "2026-10-03T06:20:00.106Z"
   },
   {
    "provider": "cerebrium",
@@ -3587,7 +3569,7 @@
    "usd_hr": 0.7992,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.785Z"
+   "fetched_at": "2026-10-03T06:20:00.106Z"
   },
   {
    "provider": "cerebrium",
@@ -3596,7 +3578,7 @@
    "usd_hr": 1.1016,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.785Z"
+   "fetched_at": "2026-10-03T06:20:00.106Z"
   },
   {
    "provider": "cerebrium",
@@ -3605,7 +3587,7 @@
    "usd_hr": 1.998,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.785Z"
+   "fetched_at": "2026-10-03T06:20:00.106Z"
   },
   {
    "provider": "cerebrium",
@@ -3614,7 +3596,7 @@
    "usd_hr": 1.9512,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.785Z"
+   "fetched_at": "2026-10-03T06:20:00.106Z"
   },
   {
    "provider": "cerebrium",
@@ -3623,7 +3605,7 @@
    "usd_hr": 2.0988,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.785Z"
+   "fetched_at": "2026-10-03T06:20:00.106Z"
   },
   {
    "provider": "cerebrium",
@@ -3632,7 +3614,7 @@
    "usd_hr": 3.3984,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.785Z"
+   "fetched_at": "2026-10-03T06:20:00.106Z"
   },
   {
    "provider": "cerebrium",
@@ -3641,7 +3623,7 @@
    "usd_hr": 4.1976,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.785Z"
+   "fetched_at": "2026-10-03T06:20:00.106Z"
   },
   {
    "provider": "cerebrium",
@@ -3650,7 +3632,7 @@
    "usd_hr": 6.012,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.785Z"
+   "fetched_at": "2026-10-03T06:20:00.106Z"
   },
   {
    "provider": "cerebrium",
@@ -3659,7 +3641,7 @@
    "usd_hr": 2.4984,
    "kind": "serverless",
    "source_url": "https://www.cerebrium.ai/pricing",
-   "fetched_at": "2026-10-03T05:20:03.785Z"
+   "fetched_at": "2026-10-03T06:20:00.106Z"
   },
   {
    "provider": "koyeb",
@@ -3668,7 +3650,7 @@
    "usd_hr": 0.7,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.773Z"
+   "fetched_at": "2026-10-03T06:19:59.366Z"
   },
   {
    "provider": "koyeb",
@@ -3677,7 +3659,7 @@
    "usd_hr": 0.75,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.773Z"
+   "fetched_at": "2026-10-03T06:19:59.366Z"
   },
   {
    "provider": "koyeb",
@@ -3686,7 +3668,7 @@
    "usd_hr": 1.2,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.773Z"
+   "fetched_at": "2026-10-03T06:19:59.366Z"
   },
   {
    "provider": "koyeb",
@@ -3695,7 +3677,7 @@
    "usd_hr": 1.6,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.773Z"
+   "fetched_at": "2026-10-03T06:19:59.366Z"
   },
   {
    "provider": "koyeb",
@@ -3704,7 +3686,7 @@
    "usd_hr": 2.15,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.773Z"
+   "fetched_at": "2026-10-03T06:19:59.366Z"
   },
   {
    "provider": "koyeb",
@@ -3713,7 +3695,7 @@
    "usd_hr": 2.2,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.773Z"
+   "fetched_at": "2026-10-03T06:19:59.366Z"
   },
   {
    "provider": "koyeb",
@@ -3722,7 +3704,7 @@
    "usd_hr": 2.5,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.773Z"
+   "fetched_at": "2026-10-03T06:19:59.366Z"
   },
   {
    "provider": "koyeb",
@@ -3731,7 +3713,7 @@
    "usd_hr": 3,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.773Z"
+   "fetched_at": "2026-10-03T06:19:59.366Z"
   },
   {
    "provider": "koyeb",
@@ -3740,7 +3722,7 @@
    "usd_hr": 5.5,
    "kind": "serverless",
    "source_url": "https://www.koyeb.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.773Z"
+   "fetched_at": "2026-10-03T06:19:59.366Z"
   },
   {
    "provider": "thundercompute",
@@ -3749,7 +3731,7 @@
    "usd_hr": 0.35,
    "kind": "on-demand",
    "source_url": "https://www.thundercompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.391Z"
+   "fetched_at": "2026-10-03T06:19:59.195Z"
   },
   {
    "provider": "thundercompute",
@@ -3758,7 +3740,7 @@
    "usd_hr": 0.79,
    "kind": "on-demand",
    "source_url": "https://www.thundercompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.391Z"
+   "fetched_at": "2026-10-03T06:19:59.195Z"
   },
   {
    "provider": "thundercompute",
@@ -3767,7 +3749,7 @@
    "usd_hr": 1.09,
    "kind": "on-demand",
    "source_url": "https://www.thundercompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.391Z"
+   "fetched_at": "2026-10-03T06:19:59.195Z"
   },
   {
    "provider": "thundercompute",
@@ -3776,7 +3758,7 @@
    "usd_hr": 3.2,
    "kind": "on-demand",
    "source_url": "https://www.thundercompute.com/pricing",
-   "fetched_at": "2026-10-03T05:20:03.391Z"
+   "fetched_at": "2026-10-03T06:19:59.195Z"
   },
   {
    "provider": "latitude",
@@ -3785,7 +3767,7 @@
    "usd_hr": 3.37,
    "kind": "on-demand",
    "source_url": "https://www.latitude.sh/pricing",
-   "fetched_at": "2026-10-03T05:20:03.006Z",
+   "fetched_at": "2026-10-03T06:19:59.076Z",
    "instance": "g3-h100-small",
    "gpu_count_reported": true,
    "availability": "out-of-stock",
@@ -3800,7 +3782,7 @@
    "usd_hr": 6,
    "kind": "on-demand",
    "source_url": "https://www.latitude.sh/pricing",
-   "fetched_at": "2026-10-03T05:20:03.006Z",
+   "fetched_at": "2026-10-03T06:19:59.076Z",
    "instance": "g4-rtx6kpro-large",
    "gpu_count_reported": true,
    "availability": "out-of-stock",
@@ -3816,7 +3798,7 @@
    "usd_hr": 16,
    "kind": "on-demand",
    "source_url": "https://www.latitude.sh/pricing",
-   "fetched_at": "2026-10-03T05:20:03.006Z",
+   "fetched_at": "2026-10-03T06:19:59.076Z",
    "instance": "g4-b300-large",
    "gpu_count_reported": true,
    "availability": "out-of-stock",
@@ -3832,7 +3814,7 @@
    "usd_hr": 1.7083333333333333,
    "kind": "reserved",
    "source_url": "https://www.latitude.sh/pricing",
-   "fetched_at": "2026-10-03T05:20:03.006Z",
+   "fetched_at": "2026-10-03T06:19:59.076Z",
    "instance": "g3-h100-small",
    "gpu_count_reported": true,
    "availability": "out-of-stock",
@@ -3852,7 +3834,7 @@
    "usd_hr": 1.1794520547945206,
    "kind": "reserved",
    "source_url": "https://www.latitude.sh/pricing",
-   "fetched_at": "2026-10-03T05:20:03.006Z",
+   "fetched_at": "2026-10-03T06:19:59.076Z",
    "instance": "g3-h100-small",
    "gpu_count_reported": true,
    "availability": "out-of-stock",
@@ -3872,7 +3854,7 @@
    "usd_hr": 3.0416666666666665,
    "kind": "reserved",
    "source_url": "https://www.latitude.sh/pricing",
-   "fetched_at": "2026-10-03T05:20:03.006Z",
+   "fetched_at": "2026-10-03T06:19:59.076Z",
    "instance": "g4-rtx6kpro-large",
    "gpu_count_reported": true,
    "availability": "out-of-stock",
@@ -3893,7 +3875,7 @@
    "usd_hr": 2.1,
    "kind": "reserved",
    "source_url": "https://www.latitude.sh/pricing",
-   "fetched_at": "2026-10-03T05:20:03.006Z",
+   "fetched_at": "2026-10-03T06:19:59.076Z",
    "instance": "g4-rtx6kpro-large",
    "gpu_count_reported": true,
    "availability": "out-of-stock",
@@ -3914,7 +3896,7 @@
    "usd_hr": 8.11111111111111,
    "kind": "reserved",
    "source_url": "https://www.latitude.sh/pricing",
-   "fetched_at": "2026-10-03T05:20:03.006Z",
+   "fetched_at": "2026-10-03T06:19:59.076Z",
    "instance": "g4-b300-large",
    "gpu_count_reported": true,
    "availability": "out-of-stock",
@@ -3935,7 +3917,7 @@
    "usd_hr": 5.6,
    "kind": "reserved",
    "source_url": "https://www.latitude.sh/pricing",
-   "fetched_at": "2026-10-03T05:20:03.006Z",
+   "fetched_at": "2026-10-03T06:19:59.076Z",
    "instance": "g4-b300-large",
    "gpu_count_reported": true,
    "availability": "out-of-stock",
@@ -3956,7 +3938,7 @@
    "usd_hr": 2.99,
    "kind": "on-demand",
    "source_url": "https://hotaisle.xyz/pricing",
-   "fetched_at": "2026-10-03T05:20:02.939Z"
+   "fetched_at": "2026-10-03T06:19:59.009Z"
   },
   {
    "provider": "scaleway",
@@ -3965,7 +3947,7 @@
    "usd_hr": 0.884,
    "kind": "on-demand",
    "source_url": "https://www.scaleway.com/en/pricing/gpu/",
-   "fetched_at": "2026-10-03T05:20:02.870Z"
+   "fetched_at": "2026-10-03T06:19:59.221Z"
   },
   {
    "provider": "scaleway",
@@ -3974,7 +3956,7 @@
    "usd_hr": 8.4188,
    "kind": "on-demand",
    "source_url": "https://www.scaleway.com/en/pricing/gpu/",
-   "fetched_at": "2026-10-03T05:20:02.870Z",
+   "fetched_at": "2026-10-03T06:19:59.221Z",
    "min_gpus": 8
   },
   {
@@ -3984,7 +3966,7 @@
    "usd_hr": 3.2176,
    "kind": "on-demand",
    "source_url": "https://www.scaleway.com/en/pricing/gpu/",
-   "fetched_at": "2026-10-03T05:20:02.870Z"
+   "fetched_at": "2026-10-03T06:19:59.221Z"
   },
   {
    "provider": "scaleway",
@@ -3993,7 +3975,7 @@
    "usd_hr": 3.5839,
    "kind": "on-demand",
    "source_url": "https://www.scaleway.com/en/pricing/gpu/",
-   "fetched_at": "2026-10-03T05:20:02.870Z",
+   "fetched_at": "2026-10-03T06:19:59.221Z",
    "min_gpus": 4
   },
   {
@@ -4003,7 +3985,7 @@
    "usd_hr": 1.65,
    "kind": "on-demand",
    "source_url": "https://www.scaleway.com/en/pricing/gpu/",
-   "fetched_at": "2026-10-03T05:20:02.870Z"
+   "fetched_at": "2026-10-03T06:19:59.221Z"
   },
   {
    "provider": "gcp",
@@ -4012,7 +3994,7 @@
    "usd_hr": 2.9339079999999997,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4021,7 +4003,7 @@
    "usd_hr": 0.5252,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4030,7 +4012,7 @@
    "usd_hr": 0.199,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4039,7 +4021,7 @@
    "usd_hr": 16.11,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4048,7 +4030,7 @@
    "usd_hr": 1.7603,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4057,7 +4039,7 @@
    "usd_hr": 1.4734,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4066,7 +4048,7 @@
    "usd_hr": 9.31174,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4075,7 +4057,7 @@
    "usd_hr": 5.586,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4084,7 +4066,7 @@
    "usd_hr": 5.8632,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4093,7 +4075,7 @@
    "usd_hr": 9.796550569,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4102,7 +4084,7 @@
    "usd_hr": 4.9542,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4111,7 +4093,7 @@
    "usd_hr": 0.35,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4120,7 +4102,7 @@
    "usd_hr": 0.560040239,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4129,7 +4111,7 @@
    "usd_hr": 0.336,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4138,7 +4120,7 @@
    "usd_hr": 1.09565,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4147,7 +4129,7 @@
    "usd_hr": 2.48,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4156,7 +4138,7 @@
    "usd_hr": 2.3568,
    "kind": "spot",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   },
   {
    "provider": "gcp",
@@ -4165,193 +4147,193 @@
    "usd_hr": 3.92808,
    "kind": "on-demand",
    "source_url": "https://cloud.google.com/compute/gpus-pricing",
-   "fetched_at": "2026-10-03T05:20:02.656Z"
+   "fetched_at": "2026-10-03T06:19:58.561Z"
   }
  ],
  "providers": {
   "runpod": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.387Z",
+   "last_verified": "2026-10-03T06:19:59.942Z",
    "stale": false,
    "source_url": "https://www.runpod.io/pricing"
   },
   "lambda": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.399Z",
+   "last_verified": "2026-10-03T06:19:58.645Z",
    "stale": false,
    "source_url": "https://lambda.ai/instances"
   },
   "hyperstack": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.374Z",
+   "last_verified": "2026-10-03T06:19:59.183Z",
    "stale": false,
    "source_url": "https://www.hyperstack.cloud/gpu-pricing"
   },
   "coreweave": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.910Z",
+   "last_verified": "2026-10-03T06:19:58.886Z",
    "stale": false,
    "source_url": "https://www.coreweave.com/pricing"
   },
   "nebius": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.310Z",
+   "last_verified": "2026-10-03T06:19:58.834Z",
    "stale": false,
    "source_url": "https://docs.nebius.com/compute/resources/pricing"
   },
   "datacrunch": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.808Z",
+   "last_verified": "2026-10-03T06:20:01.021Z",
    "stale": false,
    "source_url": "https://datacrunch.io/pricing"
   },
   "voltagepark": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.293Z",
+   "last_verified": "2026-10-03T06:20:00.980Z",
    "stale": false,
    "source_url": "https://support.voltagepark.com/article/example-deploying-gpt-oss-on-voltage-park"
   },
   "crusoe": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.201Z",
+   "last_verified": "2026-10-03T06:20:00.238Z",
    "stale": false,
    "source_url": "https://www.crusoe.ai/cloud/pricing"
   },
   "jarvislabs": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.294Z",
+   "last_verified": "2026-10-03T06:20:00.322Z",
    "stale": false,
    "source_url": "https://jarvislabs.ai/pricing"
   },
   "ovh": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.182Z",
+   "last_verified": "2026-10-03T06:20:00.130Z",
    "stale": false,
    "source_url": "https://www.ovhcloud.com/en/public-cloud/prices/"
   },
   "spheron": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.243Z",
+   "last_verified": "2026-10-03T06:19:59.886Z",
    "stale": false,
    "source_url": "https://www.spheron.network/pricing/"
   },
   "azure": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.277Z",
+   "last_verified": "2026-10-03T06:19:59.744Z",
    "stale": false,
    "source_url": "https://prices.azure.com/api/retail/prices"
   },
   "aws": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:02.841Z",
+   "last_verified": "2026-10-03T06:19:59.589Z",
    "stale": false,
    "source_url": "https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20(N.%20Virginia)/Linux/index.json"
   },
   "together": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.346Z",
+   "last_verified": "2026-10-03T06:19:59.435Z",
    "stale": false,
    "source_url": "https://www.together.ai/pricing"
   },
   "fal": {
    "ok": true,
-   "last_verified": "2026-10-03T05:00:03.093Z",
+   "last_verified": "2026-10-03T06:16:37.053Z",
    "stale": false,
    "source_url": "https://fal.ai/pricing"
   },
   "modal": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.907Z",
+   "last_verified": "2026-10-03T06:19:59.516Z",
    "stale": false,
    "source_url": "https://modal.com/pricing"
   },
   "vultr": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:15.377Z",
+   "last_verified": "2026-10-03T06:20:00.302Z",
    "stale": false,
    "source_url": "https://www.vultr.com/pricing/"
   },
   "massedcompute": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:04.096Z",
+   "last_verified": "2026-10-03T06:20:01.722Z",
    "stale": false,
    "source_url": "https://massedcompute.com/pricing"
   },
   "tensordock": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:02.833Z",
+   "last_verified": "2026-10-03T06:19:58.973Z",
    "stale": false,
    "source_url": "https://www.tensordock.com/cloud-gpus.html"
   },
   "salad": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.140Z",
+   "last_verified": "2026-10-03T06:19:59.116Z",
    "stale": false,
    "source_url": "https://salad.com/pricing"
   },
   "replicate": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:04.074Z",
+   "last_verified": "2026-10-03T06:20:00.075Z",
    "stale": false,
    "source_url": "https://replicate.com/pricing"
   },
   "fireworks": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.560Z",
+   "last_verified": "2026-10-03T06:19:59.904Z",
    "stale": false,
    "source_url": "https://fireworks.ai/pricing"
   },
   "baseten": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.601Z",
+   "last_verified": "2026-10-03T06:19:59.726Z",
    "stale": false,
    "source_url": "https://www.baseten.co/pricing/"
   },
   "digitalocean": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.750Z",
+   "last_verified": "2026-10-03T06:19:59.555Z",
    "stale": false,
    "source_url": "https://www.digitalocean.com/pricing/gpu-droplets"
   },
   "gmicloud": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.647Z",
+   "last_verified": "2026-10-03T06:19:59.525Z",
    "stale": false,
    "source_url": "https://www.gmicloud.ai/en/pricing"
   },
   "primeintellect": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.793Z",
+   "last_verified": "2026-10-03T06:19:59.533Z",
    "stale": false,
    "source_url": "https://www.primeintellect.ai/"
   },
   "cerebrium": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.785Z",
+   "last_verified": "2026-10-03T06:20:00.106Z",
    "stale": false,
    "source_url": "https://www.cerebrium.ai/pricing"
   },
   "koyeb": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.773Z",
+   "last_verified": "2026-10-03T06:19:59.366Z",
    "stale": false,
    "source_url": "https://www.koyeb.com/pricing"
   },
   "thundercompute": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.391Z",
+   "last_verified": "2026-10-03T06:19:59.195Z",
    "stale": false,
    "source_url": "https://www.thundercompute.com/pricing"
   },
   "latitude": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:03.006Z",
+   "last_verified": "2026-10-03T06:19:59.076Z",
    "stale": false,
    "source_url": "https://www.latitude.sh/pricing"
   },
   "hotaisle": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:02.939Z",
+   "last_verified": "2026-10-03T06:19:59.009Z",
    "stale": false,
    "source_url": "https://hotaisle.xyz/pricing"
   },
@@ -4378,13 +4360,13 @@
   },
   "scaleway": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:02.870Z",
+   "last_verified": "2026-10-03T06:19:59.221Z",
    "stale": false,
    "source_url": "https://www.scaleway.com/en/pricing/gpu/"
   },
   "gcp": {
    "ok": true,
-   "last_verified": "2026-10-03T05:20:02.656Z",
+   "last_verified": "2026-10-03T06:19:58.561Z",
    "stale": false,
    "source_url": "https://cloud.google.com/compute/gpus-pricing"
   }
@@ -4412,8 +4394,12 @@
     "name": "RTX 3080"
    },
    {
-    "provider": "lambda",
-    "name": "0GB"
+    "provider": "koyeb",
+    "name": "RTX 4000 SFF ADA"
+   },
+   {
+    "provider": "digitalocean",
+    "name": "NVIDIA RTX 4000 Ada Generation"
    },
    {
     "provider": "runpod",
@@ -4470,14 +4456,6 @@
    {
     "provider": "runpod",
     "name": "RTX PRO 5000"
-   },
-   {
-    "provider": "digitalocean",
-    "name": "NVIDIA RTX 4000 Ada Generation"
-   },
-   {
-    "provider": "koyeb",
-    "name": "RTX 4000 SFF ADA"
    },
    {
     "provider": "vultr",
